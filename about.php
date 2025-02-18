@@ -220,7 +220,7 @@
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-4">
                         <div class="feature-item">
-                            <span class="count">01</span>
+                            <span class="count2">01</span>
                             <!-- <div class="feature-icon">
                                 <img src="assets/img/icon/global-education.svg" alt="Conducive Environment">
                             </div> -->
@@ -234,7 +234,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="feature-item">
-                            <span class="count">02</span>
+                            <span class="count2">02</span>
                             <!-- <div class="feature-icon">
                                 <img src="assets/img/icon/teacher.svg" alt="Experienced Teachers">
                             </div> -->
@@ -248,7 +248,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="feature-item">
-                            <div class="count">03</div>
+                            <span class="count2">03</span>
                             <!-- <div class="feature-icon">
                                 <img src="assets/img/icon/library.svg" alt="Extensive Library">
                             </div> -->

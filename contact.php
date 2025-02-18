@@ -7,13 +7,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us | Henson Demonstration Schools</title>
-    <meta name="description" content="Reach out to Henson Demonstration Schools for inquiries, support, or enrollment details. We're here to assist you.">
-    <meta name="keywords" content="Contact Henson Demonstration Schools, inquiries, support, enrollment details, school contact information">
+    <meta name="description"
+        content="Reach out to Henson Demonstration Schools for inquiries, support, or enrollment details. We're here to assist you.">
+    <meta name="keywords"
+        content="Contact Henson Demonstration Schools, inquiries, support, enrollment details, school contact information">
     <meta name="author" content="Henson Demonstration Schools">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Contact Us | Henson Demonstration Schools">
-    <meta property="og:description" content="Have questions? Contact Henson Demonstration Schools today. We're here to provide assistance with all your inquiries.">
+    <meta property="og:description"
+        content="Have questions? Contact Henson Demonstration Schools today. We're here to provide assistance with all your inquiries.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.hensonschools.com/contact.php">
     <meta property="og:image" content="https://www.hensonschools.com/assets/img/contact.jpg">
@@ -21,7 +24,8 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Contact Us | Henson Demonstration Schools">
-    <meta name="twitter:description" content="Need help or have questions? Contact Henson Demonstration Schools. We're here to assist you.">
+    <meta name="twitter:description"
+        content="Need help or have questions? Contact Henson Demonstration Schools. We're here to assist you.">
     <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/contact.jpg">
 
     <!-- favicon -->
@@ -71,8 +75,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>School Address</h5>
-                                    <p>Osasere Osayogie Street, Off km 11 Benin-Lagos Expressway, Idunmwonwina, Benin
-                                        City, Edo State.</p>
+                                    <p>52, Akhionbare Street, G.R.A. Benin City, Edo State.</p>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +86,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Us</h5>
-                                    <p>+234 816 211 8764</p>
+                                    <p>+234 803 719 6219</p>
                                 </div>
                             </div>
                         </div>
@@ -173,7 +176,7 @@
         <!-- map -->
         <div class="contact-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.738991359703!2d5.601145276510433!3d6.427569493563462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10472dac5cf87751%3A0x3eef1bcba8d41e6a!2sOsasere%20Osayogie%20St%2C%20Uselu%2C%20Benin%20City%20302117%2C%20Edo!5e0!3m2!1sen!2sng!4v1739634523367!5m2!1sen!2sng"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6668071127515!2d5.6090825765098!3d6.3074317936818325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1040d3cedf047213%3A0x5c6585613ac64917!2s52%20Akhionbare%20St%2C%20Oka%2C%20Benin%20City%20300102%2C%20Edo!5e0!3m2!1sen!2sng!4v1739890596909!5m2!1sen!2sng"
                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>

@@ -111,7 +111,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link " href="https://app.hensonschools.com">Login</a>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="<?php echo $base_url; ?>/contact.php"></a></li>
+                        <li class="nav-item"><a class="nav-link" href="<?php echo $base_url; ?>/contact.php">Contact</a></li>
                     </ul>
                     <div class="nav-right">
 

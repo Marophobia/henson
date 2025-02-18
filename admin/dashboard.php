@@ -46,10 +46,9 @@ for ($i = 11; $i >= 0; $i--) {
 <html lang="en" data-layout="vertical" data-topbar="light" data-sidebar="dark" data-sidebar-size="lg"
     data-sidebar-image="none" data-preloader="disable" data-theme="default" data-theme-colors="default">
 
-<head>
-
+<head>  
     <meta charset="utf-8" />
-    <title>Admin Dashboard | HGBSS</title>
+    <title>Admin Dashboard | Henson Demonstration Schools</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -92,7 +91,7 @@ for ($i = 11; $i >= 0; $i--) {
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
                                         <li class="breadcrumb-item">
-                                            <a href="javascript: void(0);">HGBSS</a>
+                                            <a href="javascript: void(0);">Henson Demonstration Schools</a>
                                         </li>
                                         <li class="breadcrumb-item active">
                                             Dashboard

@@ -73,8 +73,7 @@
                             <p class="mb-4">
                                 Choosing the right school for your child is a critical decision, and we're here to help.
                                 This
-                                FAQ section answers some of the most common questions about Holy Ghost Basic and
-                                Secondary School, including
+                                FAQ section answers some of the most common questions about Henson Demonstration School, including
                                 our
                                 curriculum, admissions process, extracurricular activities, and much more.
                                 At Brano, we strive to make every parent and student feel confident and excited about

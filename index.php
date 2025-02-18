@@ -281,7 +281,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Qualified Teachers</h4>
-                                    <p>At Holy Ghost Secondary School, every subject taught are done by the best brains
+                                    <p>At Henson Demonstration Schools, every subject taught are done by the best brains
                                         in their various fields,
                                         as our teachers are carefully selected with the best QUALIFICATION and proven
                                         IMPECCABLE CHARACTERS
@@ -297,7 +297,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Technology</h4>
-                                    <p>HGSS is described by all as an institution that is at the front burner of
+                                    <p>Henson is described by all as an institution that is at the front burner of
                                         technology, as its application has become the order of the day in every sphere
                                         of our
                                         activitiesvfrom start to finish. We also expose our students to technological
@@ -315,7 +315,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Conducive Environment</h4>
-                                    <p>HGSS is located in a secured and serene environment with a very large expanse of
+                                    <p>Henson is located in a secured and serene environment with a very large expanse of
                                         land where
                                         educational and recreational activities are carried out conducively.
                                     </p>
@@ -616,8 +616,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="col-lg-5 ms-lg-auto">
                             <div class="cta-content mt-0">
                                 <h1>Shape Your Future at Henson Demonstration Schools – Enroll Today!</h1>
-                                <p>Unlock endless opportunities with a solid foundation at Holy Ghost Basic and
-                                    Secondary School. Join a
+                                <p>Unlock endless opportunities with a solid foundation at Henson Demonstration Schools. Join a
                                     community
                                     dedicated to academic excellence, Spiritual growth, and success in all areas of
                                     life.
@@ -641,8 +640,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Testimonials</span>
                             <h2 class="site-title">What Our <span>Community</span> Says</h2>
-                            <p>Hear from our students and parents about their experiences at Holy Ghost Basic and
-                                Secondary School. Their stories reflect our commitment to excellence.</p>
+                            <p>Hear from our students and parents about their experiences at Henson Demonstration Schools. Their stories reflect our commitment to excellence.</p>
                         </div>
                     </div>
                 </div>

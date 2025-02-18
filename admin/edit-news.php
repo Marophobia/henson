@@ -27,7 +27,7 @@ if (!$blog->id) {
 
 // Fetch all categories
 $categories = R::findAll('categories', 'ORDER BY id ASC');
-?>
+?>  
 
 <!doctype html>
 <html lang="en" data-layout="vertical" data-topbar="light" data-sidebar="dark" data-sidebar-size="lg"
@@ -35,7 +35,7 @@ $categories = R::findAll('categories', 'ORDER BY id ASC');
 
 <head>
     <meta charset="utf-8" />
-    <title>Edit News and Events | HGBSS</title>
+    <title>Edit News and Events | Henson Demonstration Schools</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />

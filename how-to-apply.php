@@ -121,8 +121,7 @@
                             <p class="mb-4">
                                 Choosing the right school for your child is a critical decision, and we're here to help.
                                 This
-                                FAQ section answers some of the most common questions about Holy Ghost Basic and
-                                Secondary School, including
+                                FAQ section answers some of the most common questions about Henson Demonstration Schools, including
                                 our
                                 curriculum, admissions process, extracurricular activities, and much more.
                                 At Brano, we strive to make every parent and student feel confident and excited about
@@ -157,8 +156,7 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            <span><i class="far fa-question"></i></span> Where is Holy Ghost Basic and
-                                            Secondary School located?
+                                            <span><i class="far fa-question"></i></span> Where is Henson Demonstration Schools located?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -173,9 +171,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <span><i class="far fa-question"></i></span> How do I enroll my child at Brano
-                                        High
-                                        School?
+                                        <span><i class="far fa-question"></i></span> How do I enroll my child at Henson Demonstration Schools?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"

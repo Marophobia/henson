@@ -1811,7 +1811,7 @@ label {
 }
 
 .about-img .img-2 {
-  border-radius: 50%;
+  border-radius: 20%;
   border: 2px dashed var(--theme-color2);
   padding: 8px;
 }
@@ -2807,7 +2807,7 @@ label {
 
 .counter-area {
   position: relative;
-  background-image: url(../img/slider/slider-1.jpg);
+  background-image: url(../img/counter/01.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

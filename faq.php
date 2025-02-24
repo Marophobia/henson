@@ -113,8 +113,7 @@
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Henson Demonstration Schools is located at Osasere Osayogie Street, 
-                                        Off km 11 Benin-Lagos Expressway, Idunmwonwina, Benin City, Edo State. We
+                                        Henson Demonstration Schools is located at 52, Akhionbare Street, G.R.A. Benin City, Edo State. We
                                         offer a secure and accessible environment for all students.
                                     </div>
                                 </div>

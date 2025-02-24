@@ -3,7 +3,8 @@
 
 <head>
     <title>Our Campuses | Henson Demonstration Schools</title>
-    <meta name="description" content="Explore the campuses of Henson Demonstration Schools. Discover our facilities and vibrant student life.">
+    <meta name="description"
+        content="Explore the campuses of Henson Demonstration Schools. Discover our facilities and vibrant student life.">
     <meta name="keywords" content="Henson Demonstration Schools campuses, school facilities, student life">
     <meta name="author" content="Henson Demonstration Schools">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +12,8 @@
 
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Our Campuses | Henson Demonstration Schools">
-    <meta property="og:description" content="Discover the campuses of Henson Demonstration Schools. See our facilities and vibrant student life.">
+    <meta property="og:description"
+        content="Discover the campuses of Henson Demonstration Schools. See our facilities and vibrant student life.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.hensonschools.com/campuses.php">
     <meta property="og:image" content="https://www.hensonschools.com/assets/img/campuses.jpg">
@@ -20,7 +22,8 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Our Campuses | Henson Demonstration Schools">
-    <meta name="twitter:description" content="Explore the campuses of Henson Demonstration Schools. Discover our facilities and vibrant student life.">
+    <meta name="twitter:description"
+        content="Explore the campuses of Henson Demonstration Schools. Discover our facilities and vibrant student life.">
     <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/campuses.jpg">
 </head>
 
@@ -78,10 +81,16 @@
                                 </h2>
                             </div>
                             <p class="content-text">
-                                Welcome to Henson Demonstration Schools' multiple campuses, each designed to provide excellent educational experiences while serving different communities across the region. Our campuses are strategically located to ensure accessibility and convenience for our students and their families.
+                                Welcome to Henson Demonstration Schools' multiple campuses, each designed
+                                to provide excellent educational experiences while serving different communities
+                                across the region. Our campuses are strategically located to ensure accessibility
+                                and convenience for our students and their families.
                             </p>
                             <p class="content-text mt-2">
-                                Each campus maintains our high standards of academic excellence while offering unique features and specialized programs that cater to the specific needs of its community. From state-of-the-art facilities to dedicated faculty, our campuses provide the perfect environment for learning and growth.
+                                Each campus maintains our high standards of academic excellence while offering unique
+                                features and specialized programs that cater to the specific needs of its community.
+                                From state-of-the-art facilities to dedicated faculty, our campuses provide the perfect
+                                environment for learning and growth.
                             </p>
                         </div>
                     </div>
@@ -98,30 +107,42 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="details-item">
-                                <img src="assets/img/campus-life/02.jpg" alt="">
+                                <img src="assets/img/campus/ik.jpg" alt="">
                             </div>
                             <div class="details-item">
                                 <h3 class="my-3">Ikpoha Hill Campus</h3>
+                                </p>
                                 <p>
-                                    Our flagship campus at Ikpoha Hill stands as a testament to academic excellence and innovation. Situated on a sprawling 15-acre property, this campus features modern classroom buildings, a comprehensive science complex, and extensive sporting facilities. The serene hillside location provides an ideal learning environment away from urban distractions.
+                                    Address: 26 St. Jude Street, Off Lucky Igbinedion Way, Ikpoba Hill, Benin City, Edo
+                                    State.
                                 </p>
                                 <p class="mt-2">
-                                    The Ikpoha Hill Campus is home to our advanced STEM programs and houses specialized laboratories for robotics, computer science, and environmental studies. With a student population of 1,200, this campus maintains an impressive student-to-teacher ratio of 15:1, ensuring personalized attention for every student.
-                                </p>
+                                    Nestled in the dynamic Ikpoba Hill area, this branch operates under the traditional
+                                    educational system, providing a structured learning environment that emphasizes
+                                    academic excellence and moral development. The campus features modern classroom
+                                    buildings, a comprehensive science complex, and extensive sporting facilities, all
+                                    set within a serene hillside location that offers an ideal learning environment away
+                                    from urban distractions.
+
                             </div>
                         </div>
 
                         <div class="col-lg-6">
                             <div class="details-item">
-                                <img src="assets/img/campus-life/02.jpg" alt="">
+                                <img src="assets/img/campus/main.jpg" alt="">
                             </div>
                             <div class="details-item">
-                                <h3 class="my-3">GRA Campus</h3>
+                                <h3 class="my-3">Akhionbare Campus</h3>
                                 <p>
-                                    Located in the heart of the Government Reserved Area, our GRA Campus combines urban convenience with academic excellence. This modern facility specializes in arts and humanities, featuring dedicated studios for visual arts, music, and performing arts. The campus's central location makes it easily accessible to families living in and around the city center.
+                                    Address: 50/52 Akhionbare Street, Off Ihama Road, Government Reserved Area (G.R.A.), Benin City,
                                 </p>
                                 <p class="mt-2">
-                                    The GRA Campus is particularly known for its innovative language programs and cultural exchange initiatives. With a capacity of 800 students, this campus boasts a state-of-the-art auditorium, digital library, and multimedia center that support our comprehensive approach to modern education.
+                                    Situated in the serene and upscale G.R.A., the Ahkionbare Branch offers a tranquil
+                                    atmosphere conducive to learning. This campus operates under the Montessori
+                                    educational system, emphasizing child-centered learning that fosters independence
+                                    and critical thinking. The branch boasts modern classrooms, a well-equipped science
+                                    complex, and extensive sporting facilities, ensuring a holistic development for our
+                                    students.
                                 </p>
                             </div>
                         </div>
@@ -129,15 +150,21 @@
 
                         <div class="col-lg-12">
                             <div class="details-item">
-                                <img src="assets/img/campus-life/02.jpg" alt="">
+                                <img src="assets/img/campus/ugbor.jpg" alt="">
                             </div>
                             <div class="details-item">
-                                <h3 class="my-3">Ugbo Campus</h3>
+                                <h3 class="my-3">Ugbor Campus</h3>
                                 <p>
-                                    Our newest addition, the Ugbo Campus, represents our commitment to expanding quality education across the region. This purpose-built facility emphasizes environmental sustainability and technological integration. The campus features solar-powered buildings, rainwater harvesting systems, and an organic learning garden that supports our environmental science curriculum.
+                                    Address: 100 Ugbor Road, Ugbor, Benin City, Edo State.
                                 </p>
                                 <p class="mt-2">
-                                    Serving 600 students, the Ugbo Campus specializes in project-based learning and entrepreneurship education. Its innovative design includes flexible learning spaces, a business incubation center, and collaborative workspaces that prepare students for the challenges of the 21st century workplace.
+                                    Located in the vibrant Ugbor area, this branch also embraces the Montessori
+                                    philosophy,
+                                    providing a nurturing environment where students are encouraged to explore and learn
+                                    at their own pace.
+                                    The campus is equipped with state-of-the-art facilities, including interactive
+                                    whiteboards, a swimming pool,
+                                    and a comprehensive library, all designed to enhance the educational experience.
                                 </p>
                             </div>
                         </div>

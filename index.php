@@ -401,7 +401,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 </div>
                             </div>
                             <div class="about-bottom">
-                                <a href="about.html" class="theme-btn">Discover More<i
+                                <a href="about.php" class="theme-btn">Discover More<i
                                         class="fas fa-arrow-right-long"></i></a>
                                 <div class="about-phone">
                                     <div class="icon"><i class="fal fa-headset"></i></div>
@@ -622,7 +622,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                     life.
                                 </p>
                                 <div class="cta-btn">
-                                    <a href="enroll.php" class="theme-btn">Start Your Journey<i
+                                    <a href="enroll.php" class="theme-btn">Enroll Now<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>

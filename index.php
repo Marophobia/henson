@@ -175,7 +175,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                         Henson
                                     </h6>
                                     <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Welcome to Henson Demonstration Schools
+                                        Henson Demonstration Schools
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
                                         Henson Demonstration Schools comprises of a Montessori, Kindergarten, Primary

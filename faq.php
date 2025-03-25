@@ -76,7 +76,7 @@
                                 FAQ section answers some of the most common questions about Henson Demonstration School, including
                                 our
                                 curriculum, admissions process, extracurricular activities, and much more.
-                                At Brano, we strive to make every parent and student feel confident and excited about
+                                At Henson, we strive to make every parent and student feel confident and excited about
                                 joining
                                 our community. For additional information, feel free to contact us anytime!
                             </p>

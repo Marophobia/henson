@@ -16,13 +16,16 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Henson Demonstration Schools | Excellence in Education</title>
-    <meta name="description" content="Henson Demonstration Schools is a premier educational institution dedicated to academic excellence, holistic development, and nurturing future leaders. Enroll today for a brighter future.">
-    <meta name="keywords" content="Henson Demonstration Schools, best schools, high school education, enroll students, check results, contact Henson Demonstration Schools, academic excellence, holistic education">
+    <meta name="description"
+        content="Henson Demonstration Schools is a premier educational institution dedicated to academic excellence, holistic development, and nurturing future leaders. Enroll today for a brighter future.">
+    <meta name="keywords"
+        content="Henson Demonstration Schools, best schools, high school education, enroll students, check results, contact Henson Demonstration Schools, academic excellence, holistic education">
     <meta name="author" content="Henson Demonstration Schools">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Henson Demonstration Schools | Excellence in Education">
-    <meta property="og:description" content="Experience world-class education at Henson Demonstration Schools. Join us for academic success and holistic development.">
+    <meta property="og:description"
+        content="Experience world-class education at Henson Demonstration Schools. Join us for academic success and holistic development.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.hensonschools.com">
     <meta property="og:image" content="https://www.hensonschools.com/assets/img/snip.jpg">
@@ -31,10 +34,11 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Henson Demonstration Schools | Excellence in Education">
-    <meta name="twitter:description" content="Join Henson Demonstration Schools for outstanding education, innovative teaching methods, and student-centered learning.">
+    <meta name="twitter:description"
+        content="Join Henson Demonstration Schools for outstanding education, innovative teaching methods, and student-centered learning.">
     <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/snip.jpg">
-    <meta name="twitter:site" content="@BranoHighSchool">
-    <meta name="twitter:creator" content="@BranoHighSchool">
+    <meta name="twitter:site" content="@HensonSchools">
+    <meta name="twitter:creator" content="@HensonSchools">
     <!-- Canonical URL -->
     <link rel="canonical" href="https://www.hensonschools.com">
 
@@ -170,84 +174,69 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
-                                <div class="hero-content">
-                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        Henson
-                                    </h6>
-                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Henson Demonstration Schools
-                                    </h1>
-                                    <p data-animation="fadeInLeft" data-delay=".75s">
-                                        Henson Demonstration Schools comprises of a Montessori, Kindergarten, Primary
-                                        and Secondary school;
-                                        Established to meet the needs of children in Nigeria in particular and the world
-                                        at large.
-                                    </p>
-                                    <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.php" class="theme-btn">Learn More<i
-                                                class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.php" class="theme-btn theme-btn2">Get in Touch<i
-                                                class="fas fa-arrow-right-long"></i></a>
+                                <div class="hero-content-box">
+                                    <div class="hero-content">
+                                        <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                            Henson Demonstration Schools
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
                 <div class="hero-single" style="background: url(assets/img/slider/slider-2.jpg)">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
-                                <div class="hero-content">
-                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        Henson
-                                    </h6>
-                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Knowledge and Discipline
-                                    </h1>
-                                    <p data-animation="fadeInLeft" data-delay=".75s">
-                                        Henson Demonstration Schools is located in a secured and serene environment with
-                                        a very large expanse of
-                                        land where educational and recreational activities are carried out condusively
-                                    </p>
-                                    <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.php" class="theme-btn">Discover More<i
-                                                class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.php" class="theme-btn theme-btn2">Contact Us<i
-                                                class="fas fa-arrow-right-long"></i></a>
+                                <div class="hero-content-box">
+                                    <div class="hero-content">
+                                        <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                            Knowledge and Discipline
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="hero-single" style="background: url(assets/img/about/7.jpg)">
+
+                <div class="hero-single" style="background: url(assets/img/slider/slider-4.jpg)">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
-                                <div class="hero-content">
-                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
-                                        Henson Demonstration Schools
-                                    </h6>
-                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                        Experience <span>Excellence</span> in Education
-                                    </h1>
-                                    <p data-animation="fadeInLeft" data-delay=".75s">
-                                        Join a community where "Knowledge is Light," and every student is empowered to
-                                        shine.
-                                    </p>
-                                    <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
-                                        <a href="about.php" class="theme-btn">Our Story<i
-                                                class="fas fa-arrow-right-long"></i></a>
-                                        <a href="contact.php" class="theme-btn theme-btn2">Visit Us<i
-                                                class="fas fa-arrow-right-long"></i></a>
+                                <div class="hero-content-box">
+                                    <div class="hero-content">
+                                        <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                            Excellence in Education
+                                        </h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
+
+                
+                <div class="hero-single" style="background: url(assets/img/slider/slider-3.jpg)">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-12 col-lg-7">
+                                <div class="hero-content-box">
+                                    <div class="hero-content">
+                                        <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                            Always Winning
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+        </div>
         </div>
         <!-- hero slider end -->
 
@@ -315,7 +304,8 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="feature-title">Conducive Environment</h4>
-                                    <p>Henson is located in a secured and serene environment with a very large expanse of
+                                    <p>Henson is located in a secured and serene environment with a very large expanse
+                                        of
                                         land where
                                         educational and recreational activities are carried out conducively.
                                     </p>
@@ -394,7 +384,8 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                     <div class="col-md-5">
                                         <div class="about-quote">
                                             <p>"We strive to release the potential in every child.
-                                                 Our dream is to provide each and every child with a sound, well rounded quality education."</p>
+                                                Our dream is to provide each and every child with a sound, well rounded
+                                                quality education."</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -616,7 +607,8 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="col-lg-5 ms-lg-auto">
                             <div class="cta-content mt-0">
                                 <h1>Shape Your Future at Henson Demonstration Schools – Enroll Today!</h1>
-                                <p>Unlock endless opportunities with a solid foundation at Henson Demonstration Schools. Join a
+                                <p>Unlock endless opportunities with a solid foundation at Henson Demonstration Schools.
+                                    Join a
                                     community
                                     dedicated to academic excellence, Spiritual growth, and success in all areas of
                                     life.
@@ -640,7 +632,8 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Testimonials</span>
                             <h2 class="site-title">What Our <span>Community</span> Says</h2>
-                            <p>Hear from our students and parents about their experiences at Henson Demonstration Schools. Their stories reflect our commitment to excellence.</p>
+                            <p>Hear from our students and parents about their experiences at Henson Demonstration
+                                Schools. Their stories reflect our commitment to excellence.</p>
                         </div>
                     </div>
                 </div>

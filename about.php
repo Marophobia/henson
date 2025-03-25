@@ -162,38 +162,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- History Section -->
-                <!-- <div class="feature-area fa2 py-120">
-                    <div class="container">
-                        <div class="row mt-5">
-                            <div class="col-lg-12">
-                                <div class="history-section text-center">
-                                    <h3>Our Story</h3>
-                                    <p>
-                                        Since its establishment in [Year of Establishment], Henson Demonstration Schools has been
-                                        at the
-                                        forefront
-                                        of education in Nigeria. Guided by a vision of excellence, we have grown from a
-                                        single
-                                        classroom
-                                        to a modern campus offering state-of-the-art facilities. Over the years, we have
-                                        cultivated a
-                                        legacy of academic success, innovation, and community impact.
-                                    </p>
-                                    <p>
-                                        At Brano, education goes beyond the classroom. Through extracurricular
-                                        activities,
-                                        community
-                                        outreach programs, and leadership development, we ensure that every student
-                                        leaves our
-                                        school
-                                        ready to excel in their chosen path.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
 
@@ -274,7 +242,7 @@
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Testimonials</span>
                             <h2 class="site-title text-white">What Our <span>Community</span> Says</h2>
-                            <p class="text-white">Hear from our students and parents about their experiences at Brano
+                            <p class="text-white">Hear from our students and parents about their experiences at Henson
                                 High School.
                                 Their
                                 stories

@@ -243,7 +243,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
 
 
         <!-- feature area -->
-        <div class="feature-area fa-negative">
+        <div class="feature-area fa-negative mt-5">
             <div class="col-xl-9 ms-auto">
                 <div class="feature-wrapper">
                     <div class="row g-4">

@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">

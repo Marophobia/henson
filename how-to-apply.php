@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from live.themewild.com/eduka/how-to-apply.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Dec 2024 12:06:07 GMT -->
-
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
@@ -13,7 +10,7 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-    <title>Eduka - School, College, University And Courses HTML5 Template</title>
+    <title>Henson Demonstration Schools | How To Apply</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -27,7 +24,6 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
-
 <body>
 
     <!-- header area -->
@@ -47,7 +43,6 @@
             </div>
         </div>
         <!-- breadcrumb end -->
-
 
         <!-- how apply -->
         <div class="how-apply pt-120 pb-80">
@@ -258,7 +253,6 @@
     <!-- scroll-top -->
     <a href="#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
     <!-- scroll-top end -->
-
 
     <!-- js -->
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

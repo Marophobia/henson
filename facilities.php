@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from live.themewild.com/eduka/facility.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Dec 2024 12:06:10 GMT -->
-
 <head>
     <title>Facilities | Henson Demonstration Schools</title>
     <meta name="description" content="Explore the facilities of Henson Demonstration Schools. Discover our state-of-the-art infrastructure and resources.">
@@ -235,8 +232,4 @@
     <script src="assets/js/main.js"></script>
 
 </body>
-
-
-<!-- Mirrored from live.themewild.com/eduka/facility.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Dec 2024 12:06:11 GMT -->
-
 </html>

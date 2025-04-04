@@ -155,7 +155,7 @@
                             <div class="details-item">
                                 <h3 class="my-3">Ugbor Campus</h3>
                                 <p>
-                                    Address: 100 Ugbor Road, Ugbor, Benin City, Edo State.
+                                    Address: 3b, Ekikhalo lane, off Edosomwan avenue, (MTN Mast Road), Ugbor, GRA, Benin City.
                                 </p>
                                 <p class="mt-2">
                                     Located in the vibrant Ugbor area, this branch also embraces the Montessori
@@ -208,5 +208,4 @@
     <script src="assets/js/main.js"></script>
 
 </body>
-
 </html>

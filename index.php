@@ -641,10 +641,6 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
             </div>
         </div>
         <!-- testimonial area end -->
-
-
-
-
     </main>
 
 
@@ -686,7 +682,4 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
     </script>
 
 </body>
-
-
-
 </html>

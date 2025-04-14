@@ -7,7 +7,7 @@
                                 <img src="assets/img/icon/course.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="14" data-speed="3000">14</span>
+                                <span class="counter" data-count="+" data-to="48" data-speed="3000">48</span>
                                 <h6 class="title">+ Total Classes </h6>
                             </div>
                         </div>
@@ -18,7 +18,7 @@
                                 <img src="assets/img/icon/graduation.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="500" data-speed="3000">500</span>
+                                <span class="counter" data-count="+" data-to="800" data-speed="3000">800</span>
                                 <h6 class="title">+ Our Students</h6>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <img src="assets/img/icon/teacher-2.svg" alt="">
                             </div>
                             <div>
-                                <span class="counter" data-count="+" data-to="16" data-speed="3000">16</span>
+                                <span class="counter" data-count="+" data-to="90" data-speed="3000">90</span>
                                 <h6 class="title">+ Skilled Teachers</h6>
                             </div>
                         </div>

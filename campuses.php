@@ -105,67 +105,114 @@
             <div class="container">
                 <div class="details-wrapper">
                     <div class="row">
-                        <div class="col-lg-6">
-                            <div class="details-item">
-                                <img src="assets/img/campus/ik.jpg" alt="">
-                            </div>
-                            <div class="details-item">
-                                <h3 class="my-3">Ikpoha Hill Campus</h3>
-                                </p>
-                                <p>
-                                    Address: 26 St. Jude Street, Off Lucky Igbinedion Way, Ikpoba Hill, Benin City, Edo
-                                    State.
-                                </p>
-                                <p class="mt-2">
-                                    Nestled in the dynamic Ikpoba Hill area, this branch operates under the traditional
-                                    educational system, providing a structured learning environment that emphasizes
-                                    academic excellence and moral development. The campus features modern classroom
-                                    buildings, a comprehensive science complex, and extensive sporting facilities, all
-                                    set within a serene hillside location that offers an ideal learning environment away
-                                    from urban distractions.
+                        <div class="col-lg-12 mb-5">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <img src="assets/img/campus/ik.jpg" class="mb-5" alt="">
+                                        <img src="assets/img/campus/ik2.jpg" class="mb-5" alt="">
+                                        <img src="assets/img/campus/ik3.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <h3 class="mb-3">Ikpoha Hill Campus</h3>
+                                        </p>
+                                        <p>
+                                            Address: 26 St. Jude Street, Off Lucky Igbinedion Way, Ikpoba Hill, Benin
+                                            City,
+                                            Edo
+                                            State.
+                                        </p>
+                                        <p class="mt-2">
+                                            Nestled in the dynamic Ikpoba Hill area, this branch operates under the
+                                            traditional
+                                            educational system, providing a structured learning environment that
+                                            emphasizes
+                                            academic excellence and moral development. The campus features modern
+                                            classroom
+                                            buildings, a comprehensive science complex, and extensive sporting
+                                            facilities,
+                                            all
+                                            set within a serene hillside location that offers an ideal learning
+                                            environment
+                                            away
+                                            from urban distractions.
 
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="col-lg-6">
-                            <div class="details-item">
-                                <img src="assets/img/campus/main.jpg" alt="">
-                            </div>
-                            <div class="details-item">
-                                <h3 class="my-3">Akhionbare Campus</h3>
-                                <p>
-                                    Address: 50/52 Akhionbare Street, Off Ihama Road, Government Reserved Area (G.R.A.), Benin City,
-                                </p>
-                                <p class="mt-2">
-                                    Situated in the serene and upscale G.R.A., the Ahkionbare Branch offers a tranquil
-                                    atmosphere conducive to learning. This campus operates under the Montessori
-                                    educational system, emphasizing child-centered learning that fosters independence
-                                    and critical thinking. The branch boasts modern classrooms, a well-equipped science
-                                    complex, and extensive sporting facilities, ensuring a holistic development for our
-                                    students.
-                                </p>
+                        <div class="col-lg-12 mb-5">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <img src="assets/img/campus/main.jpg" class="mb-5" alt="">
+                                        <img src="assets/img/campus/main2.jpg" alt="">
+                                        <img src="assets/img/campus/main3.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <h3 class="mb-3">Akhionbare Campus</h3>
+                                        <p>
+                                            Address: 50/52 Akhionbare Street, Off Ihama Road, Government Reserved Area
+                                            (G.R.A.),
+                                            Benin City,
+                                        </p>
+                                        <p class="mt-2">
+                                            Situated in the serene and upscale G.R.A., the Ahkionbare Branch offers a
+                                            tranquil
+                                            atmosphere conducive to learning. This campus operates under the Montessori
+                                            educational system, emphasizing child-centered learning that fosters
+                                            independence
+                                            and critical thinking. The branch boasts modern classrooms, a well-equipped
+                                            science
+                                            complex, and extensive sporting facilities, ensuring a holistic development
+                                            for
+                                            our
+                                            students.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
 
                         <div class="col-lg-12">
-                            <div class="details-item">
-                                <img src="assets/img/campus/ugbor.jpg" alt="">
-                            </div>
-                            <div class="details-item">
-                                <h3 class="my-3">Ugbor Campus</h3>
-                                <p>
-                                    Address: 3b, Ekikhalo lane, off Edosomwan avenue, (MTN Mast Road), Ugbor, GRA, Benin City.
-                                </p>
-                                <p class="mt-2">
-                                    Located in the vibrant Ugbor area, this branch also embraces the Montessori
-                                    philosophy,
-                                    providing a nurturing environment where students are encouraged to explore and learn
-                                    at their own pace.
-                                    The campus is equipped with state-of-the-art facilities, including interactive
-                                    whiteboards, a swimming pool,
-                                    and a comprehensive library, all designed to enhance the educational experience.
-                                </p>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <img src="assets/img/campus/ugbor.jpg" class="mb-5" alt="">
+                                        <img src="assets/img/campus/ugbor2.jpg" alt="">
+                                        <img src="assets/img/campus/ugbor3.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="details-item">
+                                        <h3 class="mb-3">Ugbor Campus</h3>
+                                        <p>
+                                            Address: 3b, Ekikhalo lane, off Edosomwan avenue, (MTN Mast Road), Ugbor,
+                                            GRA,
+                                            Benin
+                                            City.
+                                        </p>
+                                        <p class="mt-2">
+                                            Located in the vibrant Ugbor area, this branch also embraces the Montessori
+                                            philosophy,
+                                            providing a nurturing environment where students are encouraged to explore
+                                            and
+                                            learn
+                                            at their own pace.
+                                            The campus is equipped with state-of-the-art facilities, including
+                                            interactive
+                                            whiteboards, a swimming pool,
+                                            and a comprehensive library, all designed to enhance the educational
+                                            experience.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -208,4 +255,5 @@
     <script src="assets/js/main.js"></script>
 
 </body>
+
 </html>

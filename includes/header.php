@@ -48,7 +48,7 @@
                                                             href="<?php echo $base_url; ?>/toddler.php">Toddler</a>
                                                     </li>
                                                     <li><a class="dropdown-item"
-                                                            href="<?php echo $base_url; ?>/kindergarten.php">Kindergarten</a>
+                                                            href="#">Kindergarten</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -67,7 +67,7 @@
                                                             href="<?php echo $base_url; ?>/junior-classes.php">Junior
                                                             Secondary</a></li>
                                                     <li><a class="dropdown-item"
-                                                            href="<?php echo $base_url; ?>/senior-classes.php">Senior
+                                                            href="#">Senior
                                                             Secondary</a></li>
                                                 </ul>
                                             </div>

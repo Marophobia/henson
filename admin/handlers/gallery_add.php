@@ -11,9 +11,9 @@ if (!isset($_SESSION['admin_id'])) {
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     try {
         // Handle image upload
-        if (!isset($_FILES['image']) || $_FILES['image']['error'] !== UPLOAD_ERR_OK) {
-            throw new Exception("Please upload a valid image.");
-        }
+        // if (!isset($_FILES['image']) || $_FILES['image']['error'] !== UPLOAD_ERR_OK) {
+        //     throw new Exception("Please upload a valid image.");
+        // }
 
         $file = $_FILES['image'];
         $file_size = $file['size'];

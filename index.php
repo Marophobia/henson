@@ -332,7 +332,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                             <!-- <div class="about-experience-icon">
                                                 <img src="assets/img/icon/exchange-idea.svg" alt="">
                                             </div> -->
-                                            <b class="text-start">Over 10 Years Of <br> Quality Education</b>
+                                            <b class="text-start">Over 35 Years Of <br> Quality Education</b>
                                         </div>
                                     </div>
                                     <div class="col-md-6">

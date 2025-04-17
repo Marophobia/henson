@@ -155,7 +155,7 @@
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call</span>
-                                        <h6><a href="tel:+2348162118764">+234 816 211 8764</a></h6>
+                                        <h6><a href="tel:+2348037196219">+234 803 719 6219</a></h6>
                                     </div>
                                 </div>
                             </div>

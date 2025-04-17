@@ -20,9 +20,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $file_tmp = $file['tmp_name'];
         $file_type = $file['type'];
         
-        // Validate file size (2MB = 2 * 1024 * 1024 bytes)
-        if ($file_size > 2 * 1024 * 1024) {
-            throw new Exception("Image size should not exceed 2MB.");
+        // Validate file size (5MB = 5 * 1024 * 1024 bytes)
+        if ($file_size > 5 * 1024 * 1024) {
+            throw new Exception("Image size should not exceed 5MB.");
         }
 
         // Validate file type

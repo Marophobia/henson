@@ -3,7 +3,7 @@
 require 'rb.php';
 
 // Set up the database connection
-R::setup('mysql:host=localhost;dbname=henson', 'root', '');
+R::setup('mysql:host=localhost;dbname=adesotu', 'root', '');
 
 // Check connection
 if (!R::testConnection()) {

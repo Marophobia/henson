@@ -97,7 +97,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </main>
 
     <!-- footer area -->
-    <?php include '../includes/footer.php' ?>
+
     <!-- footer area end -->
 
     <!-- scroll-top -->

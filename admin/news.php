@@ -90,7 +90,7 @@ if (isset($_GET['action']) && isset($_GET['id'])) {
 <head>  
 
     <meta charset="utf-8" />
-    <title>News And Events | Henson Demonstration Schools</title>
+    <title>News And Events | Adesotu International College</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />

@@ -33,26 +33,26 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT ? OFFSET ?'
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News & Events | Henson Demonstration Schools</title>
-    <meta name="description" content="Stay updated with the latest news, events, and educational insights from Henson Demonstration Schools.">
-    <meta name="keywords" content="Henson Demonstration Schools blog, news, events, educational insights, school updates">
-    <meta name="author" content="Henson Demonstration Schools">
+    <title>News & Events | Adesotu International College</title>
+    <meta name="description" content="Stay updated with the latest news, events, and educational insights from Adesotu International College.">
+    <meta name="keywords" content="Adesotu International College blog, news, events, educational insights, school updates">
+    <meta name="author" content="Adesotu International College">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="News & Events | Henson Demonstration Schools">
-    <meta property="og:description" content="Discover the mission and values of Henson Demonstration Schools. Learn why we're a top choice for holistic education.">
+    <meta property="og:title" content="News & Events | Adesotu International College">
+    <meta property="og:description" content="Discover the mission and values of Adesotu International College. Learn why we're a top choice for holistic education.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.hensonschools.com/blog.php">
-    <meta property="og:image" content="https://www.hensonschools.com/assets/img/about.jpg">
-    <meta property="og:site_name" content="Henson Demonstration Schools">
+    <meta property="og:url" content="https://www.adesotucollege.com/blog.php">
+    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
+    <meta property="og:site_name" content="Adesotu International College">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="News & Events | Henson Demonstration Schools">
-    <meta name="twitter:description" content="Learn about Henson Demonstration Schools's commitment to excellence and how we nurture future leaders.">
-    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/about.jpg">
+    <meta name="twitter:title" content="News & Events | Adesotu International College">
+    <meta name="twitter:description" content="Learn about Adesotu International College's commitment to excellence and how we nurture future leaders.">
+    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
     <!-- css -->    
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -90,7 +90,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT ? OFFSET ?'
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> News & Events</span>
                             <h2 class="site-title">Latest News & <span>Events</span></h2>
-                            <p>Stay updated with the latest news and happenings from Henson Demonstration Schools.
+                            <p>Stay updated with the latest news and happenings from Adesotu International College.
                             </p>
                         </div>
                     </div>

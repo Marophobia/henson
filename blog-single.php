@@ -6,33 +6,33 @@ include 'handlers/blog.php';
 <html lang="en">
 
 <head>
-    <title>News & Events | Henson Demonstration Schools</title>
+    <title>News & Events | Adesotu International College</title>
     <meta name="description"
-        content="Learn about Henson Demonstration Schools, our mission, vision, and dedication to academic excellence and holistic student development. Discover what sets us apart.">
+        content="Learn about Adesotu International College, our mission, vision, and dedication to academic excellence and holistic student development. Discover what sets us apart.">
     <meta name="keywords"
-        content="About Henson Demonstration Schools, school mission, vision, educational excellence, student development">
-    <meta name="author" content="Henson Demonstration Schools">
+        content="About Adesotu International College, school mission, vision, educational excellence, student development">
+    <meta name="author" content="Adesotu International College">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="News & Events | Henson Demonstration Schools">
+    <meta property="og:title" content="News & Events | Adesotu International College">
     <meta property="og:description"
-        content="Discover the mission and values of Henson Demonstration Schools. Learn why we're a top choice for holistic education.">
+        content="Discover the mission and values of Adesotu International College. Learn why we're a top choice for holistic education.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.hensonschools.com/blog.php">
-    <meta property="og:image" content="https://www.hensonschools.com/assets/img/about.jpg">
-    <meta property="og:site_name" content="Henson Demonstration Schools">
+    <meta property="og:url" content="https://www.adesotucollege.com/blog.php">
+    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
+    <meta property="og:site_name" content="Adesotu International College">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="News & Events | Henson Demonstration Schools">
+    <meta name="twitter:title" content="News & Events | Adesotu International College">
     <meta name="twitter:description"
-        content="Learn about Henson Demonstration Schools's commitment to excellence and how we nurture future leaders.">
-    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/about.jpg">
+        content="Learn about Adesotu International College's commitment to excellence and how we nurture future leaders.">
+    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">

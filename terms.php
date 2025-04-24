@@ -8,35 +8,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <head>
-        <title>Terms and Conditions | Henson Demonstration Schools</title>
+        <title>Terms and Conditions | Adesotu International College</title>
         <meta name="description"
-            content="Review the Terms and Conditions of using Henson Demonstration Schools's website and services. Understand your responsibilities and our policies.">
+            content="Review the Terms and Conditions of using Adesotu International College's website and services. Understand your responsibilities and our policies.">
         <meta name="keywords"
-            content="Henson Demonstration Schools terms and conditions, website usage policies, user responsibilities, service agreement">
-        <meta name="author" content="Henson Demonstration Schools">
+            content="Adesotu International College terms and conditions, website usage policies, user responsibilities, service agreement">
+        <meta name="author" content="Adesotu International College">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="robots" content="index, follow">
 
         <!-- Open Graph Meta Tags -->
-        <meta property="og:title" content="Terms and Conditions | Henson Demonstration Schools">
+        <meta property="og:title" content="Terms and Conditions | Adesotu International College">
         <meta property="og:description"
-            content="Understand the terms and conditions for using Henson Demonstration Schools's website and services.">
+            content="Understand the terms and conditions for using Adesotu International College's website and services.">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://www.hensonschools.com/terms.php">
-        <meta property="og:image" content="https://www.hensonschools.com/assets/img/terms.jpg">
-        <meta property="og:site_name" content="Henson Demonstration Schools">
+        <meta property="og:url" content="https://www.adesotucollege.com/terms.php">
+        <meta property="og:image" content="https://www.adesotucollege.com/assets/img/terms.jpg">
+        <meta property="og:site_name" content="Adesotu International College">
 
         <!-- Twitter Card Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Terms and Conditions | Henson Demonstration Schools">
+        <meta name="twitter:title" content="Terms and Conditions | Adesotu International College">
         <meta name="twitter:description"
-            content="Review the terms and conditions for using Henson Demonstration Schools's website and services.">
-        <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/terms.jpg">
+            content="Review the terms and conditions for using Adesotu International College's website and services.">
+        <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/terms.jpg">
     </head>
 
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <p>
-                            Welcome to Henson Demonstration Schools! By accessing and using our services, you
+                            Welcome to Adesotu International College! By accessing and using our services, you
                             agree to comply with
                             these
                             terms
@@ -103,7 +103,7 @@
                             3. **Intellectual Property**: All content provided on this site, including text, graphics,
                             and
                             logos, is the
-                            property of Henson Demonstration Schools and may not be reproduced without
+                            property of Adesotu International College and may not be reproduced without
                             permission.
                         </p>
                     </div>
@@ -113,7 +113,7 @@
                             services if
                             terms are violated.
                             <br><br>
-                            5. **Disclaimer of Liability**: Henson Demonstration Schools is not responsible for
+                            5. **Disclaimer of Liability**: Adesotu International College is not responsible for
                             any damages or
                             losses
                             incurred through the use of our platform.

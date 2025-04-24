@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /henson/
+RewriteBase /adesotu/
 
 # Rewrite blog requests
 RewriteRule ^blog/([^/]+)$ blog-single.php?link=$1 [L,QSA]

@@ -14,26 +14,26 @@ if (session_status() === PHP_SESSION_NONE) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enroll | Henson Demonstration Schools</title>
-    <meta name="description" content="Enroll at Henson Demonstration Schools to experience top-notch education and holistic development. Join our community today.">
-    <meta name="keywords" content="Enroll at Henson Demonstration Schools, student enrollment, academic excellence, holistic development">
-    <meta name="author" content="Henson Demonstration Schools">
+    <title>Enroll | Adesotu International College</title>
+    <meta name="description" content="Enroll at Adesotu International College to experience top-notch education and holistic development. Join our community today.">
+    <meta name="keywords" content="Enroll at Adesotu International College, student enrollment, academic excellence, holistic development">
+    <meta name="author" content="Adesotu International College">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Enroll | Henson Demonstration Schools">
-    <meta property="og:description" content="Discover the mission and values of Henson Demonstration Schools. Learn why we're a top choice for holistic education.">
+    <meta property="og:title" content="Enroll | Adesotu International College">
+    <meta property="og:description" content="Discover the mission and values of Adesotu International College. Learn why we're a top choice for holistic education.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.hensonschools.com/enroll.php">
-    <meta property="og:image" content="https://www.hensonschools.com/assets/img/enroll.jpg">
-    <meta property="og:site_name" content="Henson Demonstration Schools">
+    <meta property="og:url" content="https://www.adesotucollege.com/enroll.php">
+    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/enroll.jpg">
+    <meta property="og:site_name" content="Adesotu International College">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Enroll | Henson Demonstration Schools">
-    <meta name="twitter:description" content="Join Henson Demonstration Schools for outstanding education, innovative teaching methods, and student-centered learning.">
-    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/enroll.jpg">
+    <meta name="twitter:title" content="Enroll | Adesotu International College">
+    <meta name="twitter:description" content="Join Adesotu International College for outstanding education, innovative teaching methods, and student-centered learning.">
+    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/enroll.jpg">
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

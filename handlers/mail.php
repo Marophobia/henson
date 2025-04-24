@@ -23,15 +23,15 @@ function sendMail($recipientEmail, $recipientName, $subject, $body)
     try {
         // Server settings
         $mail->isSMTP();
-        $mail->Host = 'hensonschools.com';
+        $mail->Host = 'adesotucollege.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'hello@hensonschools.com';
-        $mail->Password = 'Z0RA3hRz.gsm';
+        $mail->Username = 'hello@adesotucollege.com';
+        $mail->Password = 'Z438gryusvbb8';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port = 465;
 
         // Recipients
-        $mail->setFrom('hello@hensonschools.com', 'Henson Demonstration Schools');
+        $mail->setFrom('hello@adesotucollege.com', 'Adesotu International College');
         $mail->addAddress($recipientEmail, $recipientName);
 
         // Content
@@ -87,7 +87,7 @@ function generateEmailBody($name, $message)
                                             style="font-family: 'Roboto', sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;"
                                             valign="top">
                                             <div style="margin-bottom: 15px;">
-                                                <img src="https://hensonschools.com/assets/img/logo/logo.png"
+                                                <img src="https://adesotucollege.com/assets/img/logo/logo.png"
                                                     alt="" height="23">
                                             </div>
                                         </td>
@@ -117,17 +117,17 @@ function generateEmailBody($name, $message)
                         <table style="margin: 25px auto;">
                             <tr style="text-align: center;">
                                 <td style="padding: 10px;">
-                                    <a href="https://hensonschools.com/contact.php" style="color: #495057; text-decoration: none;">Contact Us</a>
+                                    <a href="https://adesotucollege.com/contact.php" style="color: #495057; text-decoration: none;">Contact Us</a>
                                 </td>
                                 <td style="padding: 10px;">
-                                    <a href="https://hensonschools.com/blog.php" style="color: #495057; text-decoration: none;">Latest News</a>
+                                    <a href="https://adesotucollege.com/blog.php" style="color: #495057; text-decoration: none;">Latest News</a>
                                 </td>
                                 <td style="padding: 10px;">
                                     <a href="#" style="color: #495057; text-decoration: none;">Privacy Policy</a>
                                 </td>
                             </tr>
                         </table>
-                        <p style="font-size: 14px; color: #98a6ad; margin: 0;">2025 Henson Demonstration Schools</p>
+                        <p style="font-size: 14px; color: #98a6ad; margin: 0;">2025 Adesotu International College</p>
                     </div>
                 </div>
             </td>

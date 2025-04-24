@@ -5,28 +5,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | Henson Demonstration Schools</title>
-    <meta name="description" content="Learn how Henson Demonstration Schools collects, uses, and protects your personal information through our comprehensive Privacy Policy.">
-    <meta name="keywords" content="Henson Demonstration Schools Privacy Policy, data protection, personal information, privacy rights">
-    <meta name="author" content="Henson Demonstration Schools">
+    <title>Privacy Policy | Adesotu International College</title>
+    <meta name="description" content="Learn how Adesotu International College collects, uses, and protects your personal information through our comprehensive Privacy Policy.">
+    <meta name="keywords" content="Adesotu International College Privacy Policy, data protection, personal information, privacy rights">
+    <meta name="author" content="Adesotu International College">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Privacy Policy | Henson Demonstration Schools">
-    <meta property="og:description" content="Understand Henson Demonstration Schools's commitment to protecting your data. Read our Privacy Policy for details on data collection, usage, and security.">
+    <meta property="og:title" content="Privacy Policy | Adesotu International College">
+    <meta property="og:description" content="Understand Adesotu International College's commitment to protecting your data. Read our Privacy Policy for details on data collection, usage, and security.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.hensonschools.com/privacy-policy.html">
-    <meta property="og:image" content="https://www.hensonschools.com/assets/img/privacy-policy.jpg">
-    <meta property="og:site_name" content="Henson Demonstration Schools">
+    <meta property="og:url" content="https://www.adesotucollege.com/privacy-policy.html">
+    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/privacy-policy.jpg">
+    <meta property="og:site_name" content="Adesotu International College">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Privacy Policy | Henson Demonstration Schools">
-    <meta name="twitter:description" content="Explore how Henson Demonstration Schools handles your data responsibly. Our Privacy Policy outlines data collection, protection, and rights.">
-    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/privacy-policy.jpg">
+    <meta name="twitter:title" content="Privacy Policy | Adesotu International College">
+    <meta name="twitter:description" content="Explore how Adesotu International College handles your data responsibly. Our Privacy Policy outlines data collection, protection, and rights.">
+    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/privacy-policy.jpg">
 </head>
 
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -74,7 +74,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <p>
-                            Henson Demonstration Schools is committed to protecting your privacy. By using our
+                            Adesotu International College is committed to protecting your privacy. By using our
                             website and
                             services, you
                             consent to the collection and use of information as outlined in this Privacy Policy.

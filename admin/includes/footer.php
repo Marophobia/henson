@@ -2,7 +2,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-6">
-                        <script>document.write(new Date().getFullYear())</script> © Henson Demonstration Schools
+                        <script>document.write(new Date().getFullYear())</script> © Adesotu International College
                     </div>
                 </div>
             </div>

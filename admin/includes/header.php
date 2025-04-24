@@ -81,7 +81,7 @@
                                         class="mdi mdi-account-circle text-muted fs-16 align-middle me-1"></i> <span
                                         class="align-middle">Profile</span></a>
 
-                                <a class="dropdown-item" href="profile.php"><i
+                                <a class="dropdown-item" href="settings.php"><i
                                         class="mdi mdi-cog-outline text-muted fs-16 align-middle me-1"></i> <span
                                         class="align-middle">Settings</span></a>
                                 <a class="dropdown-item" href="logout.php"><i

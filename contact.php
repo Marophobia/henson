@@ -6,30 +6,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us | Adesotu International College</title>
+    <title>Contact Us | Henson Demonstration Schools</title>
     <meta name="description"
-        content="Reach out to Adesotu International College for inquiries, support, or enrollment details. We're here to assist you.">
+        content="Reach out to Henson Demonstration Schools for inquiries, support, or enrollment details. We're here to assist you.">
     <meta name="keywords"
-        content="Contact Adesotu International College, inquiries, support, enrollment details, school contact information">
-    <meta name="author" content="Adesotu International College">
+        content="Contact Henson Demonstration Schools, inquiries, support, enrollment details, school contact information">
+    <meta name="author" content="Henson Demonstration Schools">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Contact Us | Adesotu International College">
+    <meta property="og:title" content="Contact Us | Henson Demonstration Schools">
     <meta property="og:description"
-        content="Have questions? Contact Adesotu International College today. We're here to provide assistance with all your inquiries.">
+        content="Have questions? Contact Henson Demonstration Schools today. We're here to provide assistance with all your inquiries.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.adesotucollege.com/contact.php">
-    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/contact.jpg">
-    <meta property="og:site_name" content="Adesotu International College">
+    <meta property="og:url" content="https://www.hensonschools.com/contact.php">
+    <meta property="og:image" content="https://www.hensonschools.com/assets/img/contact.jpg">
+    <meta property="og:site_name" content="Henson Demonstration Schools">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Contact Us | Adesotu International College">
+    <meta name="twitter:title" content="Contact Us | Henson Demonstration Schools">
     <meta name="twitter:description"
-        content="Need help or have questions? Contact Adesotu International College. We're here to assist you.">
-    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/contact.jpg">
+        content="Need help or have questions? Contact Henson Demonstration Schools. We're here to assist you.">
+    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/contact.jpg">
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -55,7 +55,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">Contact Us</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li class="active">Contact Us</li>
                 </ul>
             </div>
@@ -75,8 +75,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>School Address</h5>
-                                    <p>57, Osayogie street, opposite Nitel Junction off Ugbowo-Lagos road, Idumwowina,
-                                        Benin City, Edo State.</p>
+                                    <p>52, Akhionbare Street, G.R.A. Benin City, Edo State.</p>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +86,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Us</h5>
-                                    <p>+234 706 835 2732</p>
+                                    <p>+234 803 719 6219</p>
                                 </div>
                             </div>
                         </div>
@@ -98,7 +97,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Email Us</h5>
-                                    <p><a href="mailto:hello@adesotucollege.com">hello@adesotucollege.com</a></p>
+                                    <p><a href="mailto:hello@hensonschools.com">hello@hensonschools.com</a></p>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +118,7 @@
                     <div class="row">
                         <div class="col-lg-5">
                             <div class="contact-img">
-                                <img src="assets/img/about/01.png" alt="">
+                                <img src="assets/img/about/01.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-7 align-self-center">
@@ -136,7 +135,7 @@
                                 ?>
                                 <div class="contact-form-header">
                                     <h2>Get In Touch</h2>
-                                    <p>At Adesotu International College, we believe every child deserves the
+                                    <p>At Henson Demonstration Schools, we believe every child deserves the
                                         best education possible. Discover how we can help your child reach their full
                                         potential. </p>
                                 </div>
@@ -177,7 +176,7 @@
         <!-- map -->
         <div class="contact-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.649257915808!2d5.601238576510592!3d6.439070193552204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10472dea2b3469b3%3A0xc7327819ff6fcdb4!2sAdesotu%20International%20College!5e0!3m2!1sen!2sng!4v1745524735306!5m2!1sen!2sng"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6668071127515!2d5.6090825765098!3d6.3074317936818325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1040d3cedf047213%3A0x5c6585613ac64917!2s52%20Akhionbare%20St%2C%20Oka%2C%20Benin%20City%20300102%2C%20Edo!5e0!3m2!1sen!2sng!4v1739890596909!5m2!1sen!2sng"
                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>

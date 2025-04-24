@@ -10,35 +10,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <head>
-        <title>About Adesotu International College | Academic Excellence and Creativity</title>
+        <title>About Henson Demonstration Schools | Excellence in Education</title>
         <meta name="description"
-            content="Learn about Adesotu International College, our mission, vision, and dedication to academic excellence and holistic student development. Discover what sets us apart.">
+            content="Learn about Henson Demonstration Schools, our mission, vision, and dedication to academic excellence and holistic student development. Discover what sets us apart.">
         <meta name="keywords"
-            content="About Adesotu International College, school mission, vision, educational excellence, student development">
-        <meta name="author" content="Adesotu International College">
+            content="About Henson Demonstration Schools, school mission, vision, educational excellence, student development">
+        <meta name="author" content="Henson Demonstration Schools">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="robots" content="index, follow">
 
         <!-- Open Graph Meta Tags -->
-        <meta property="og:title" content="About Adesotu International College | Academic Excellence and Creativity">
+        <meta property="og:title" content="About Henson Demonstration Schools | Excellence in Education">
         <meta property="og:description"
-            content="Discover the mission and values of Adesotu International College. Learn why we're a top choice for holistic education.">
+            content="Discover the mission and values of Henson Demonstration Schools. Learn why we're a top choice for holistic education.">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://www.adesotucollege.com/about.php">
-        <meta property="og:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
-        <meta property="og:site_name" content="Adesotu International College">
+        <meta property="og:url" content="https://www.hensonschools.com/about.php">
+        <meta property="og:image" content="https://www.hensonschools.com/assets/img/about.jpg">
+        <meta property="og:site_name" content="Henson Demonstration Schools">
 
         <!-- Twitter Card Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About Adesotu International College | Academic Excellence and Creativity">
+        <meta name="twitter:title" content="About Henson Demonstration Schools | Excellence in Education">
         <meta name="twitter:description"
-            content="Learn about Adesotu International College's commitment to excellence and how we nurture future leaders.">
-        <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/about.jpg">
+            content="Learn about Henson Demonstration Schools's commitment to excellence and how we nurture future leaders.">
+        <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/about.jpg">
     </head>
 
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -64,7 +64,7 @@
             <div class="container">
                 <h2 class="breadcrumb-title">About Us</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li class="active">About Us</li>
                 </ul>
             </div>
@@ -82,9 +82,9 @@
                             <div class="about-img">
                                 <div class="row g-4">
                                     <div class="col-md-6">
-                                        <img class="img-1" src="assets/img/about/01.png" alt="Students in Classroom">
+                                        <img class="img-1" src="assets/img/about/01.jpg" alt="Students in Classroom">
                                         <div class="about-experience mt-4">
-                                            <b class="text-start">Over 10 Years Of <br> Quality Education</b>
+                                            <b class="text-start">Over 35 Years Of <br> Quality Education</b>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -100,14 +100,14 @@
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline"> About Us</span>
                                 <h2 class="site-title">
-                                    A Commitment to <span>Academic Excellence</span> and Creativity.
+                                    A Journey of <span>Excellence</span> and Transformation.
                                 </h2>
                             </div>
                             <p class="about-text">
-                                Adesotu International College consists of three levels of education: Nursery, Primary,
-                                and Secondary. It is a private co-educational institution established to support the
-                                government's efforts in delivering accessible and excellent education for children in
-                                Nigeria and beyond.
+                                Henson Demonstration Schools comprises of three tiers of schools, namely Nursery,
+                                Primary and Secondary schools, it is a private co-educational institution established to
+                                complement government effort at providing affordable and qualitative education for
+                                children in Nigeria and the world at large.
                             </p> <br>
                             <div class="about-content">
                                 <div class="row">
@@ -118,9 +118,8 @@
                                             </div>
                                             <div class="about-item-content">
                                                 <h5>Mission</h5>
-                                                <p>Adesotu International College is dedicated to fostering the holistic
-                                                    growth of every child, focusing on intellectual, physical, social,
-                                                    and ethical development.</p>
+                                                <p>Henson Demonstration School is committed to the total development of
+                                                    the child mentally, physically, socially and morally.</p>
                                             </div>
                                         </div>
                                         <div class="about-item">
@@ -130,15 +129,15 @@
                                             </div>
                                             <div class="about-item-content">
                                                 <h5>Vision</h5>
-                                                <p>Empowering and nurturing the leaders of tomorrow</p>
+                                                <p>Raising and educating future leaders.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="about-quote">
-                                            <p>"We are committed to unlocking the potential within every student. Our
-                                                aspiration is to provide each child with a comprehensive, balanced, and
-                                                high-quality education."</p>
+                                            <p>"We strive to release the potential in every child.
+                                                Our dream is to provide each and every child with a sound, well rounded
+                                                quality education."</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -149,14 +148,14 @@
                                     <div class="icon"><i class="fal fa-envelope"></i></div>
                                     <div class="number">
                                         <span>Email</span>
-                                        <h6><a href="mailto:hello@adesotucollege.com">hello@adesotucollege.com</a></h6>
+                                        <h6><a href="mailto:hello@hensonschools.com">hello@hensonschools.com</a></h6>
                                     </div>
                                 </div>
                                 <div class="about-phone">
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call</span>
-                                        <h6><a href="tel:+2347068352732">+234 706 835 2732</a></h6>
+                                        <h6><a href="tel:+2348037196219">+234 803 719 6219</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -179,11 +178,10 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <span class="site-title-tagline"> Goals and Vision</span>
-                            <h2 class="site-title">Explore Our <span>Goals</span></h2>
-                            <p>The esteemed objectives of Adesotu International College align with the guidelines
-                                outlined in the
-                                National policy on education as follows:</p>
+                            <span class="site-title-tagline"> Aims and Objectives</span>
+                            <h2 class="site-title">Discover Our <span>Aims</span></h2>
+                            <p>The noble objectives of Henson Demonstration Schools is in line with the provision of the
+                                National policy on education as:</p>
                         </div>
                     </div>
                 </div>
@@ -192,13 +190,12 @@
                         <div class="feature-item">
                             <span class="count2">01</span>
                             <!-- <div class="feature-icon">
-                        <img src="assets/img/icon/global-education.svg" alt="Conducive Environment">
-                    </div> -->
+                                <img src="assets/img/icon/global-education.svg" alt="Conducive Environment">
+                            </div> -->
                             <div class="feature-content">
                                 <!-- <h4 class="feature-title">Conducive Environment</h4> -->
-                                <p>To create ample opportunities and resources that ensure a seamless adjustment for
-                                    children
-                                    as they transition from home to school life.
+                                <p>To provide adequate opportunities and facilities that would foster the smooth
+                                    transition of the children from home to the school.
                                 </p>
                             </div>
                         </div>
@@ -207,14 +204,12 @@
                         <div class="feature-item">
                             <span class="count2">02</span>
                             <!-- <div class="feature-icon">
-                        <img src="assets/img/icon/teacher.svg" alt="Experienced Teachers">
-                    </div> -->
+                                <img src="assets/img/icon/teacher.svg" alt="Experienced Teachers">
+                            </div> -->
                             <div class="feature-content">
                                 <!-- <h4 class="feature-title">Experienced Teachers</h4> -->
-                                <p>To nurture their development, enhance communication abilities, promote healthy
-                                    habits,
-                                    encourage tolerance, and build teamwork skills as foundational elements of primary
-                                    education.
+                                <p>To stimulate their growth, speech and communication skills, good health habits,
+                                    tolerance and team spirit as requirements for primary education.
                                 </p>
                             </div>
                         </div>
@@ -223,14 +218,13 @@
                         <div class="feature-item">
                             <span class="count2">03</span>
                             <!-- <div class="feature-icon">
-                        <img src="assets/img/icon/library.svg" alt="Extensive Library">
-                    </div> -->
+                                <img src="assets/img/icon/library.svg" alt="Extensive Library">
+                            </div> -->
                             <div class="feature-content">
                                 <!-- <h4 class="feature-title">Extensive Library</h4> -->
-                                <p>Through the provision of supportive parental guidance and compassionate oversight,
-                                    children
-                                    are inspired to embrace curiosity and innovation by exploring their surroundings and
-                                    natural environments.
+                                <p>With the provision of adequate parental care and loving supervision, the children
+                                    inculcates the spirit of inquiry and creativity through the exploration of nature
+                                    and local environments.
                                 </p>
                             </div>
                         </div>
@@ -241,15 +235,15 @@
         <!-- feature area end -->
 
         <!-- testimonial area -->
-        <div class="testimonial-area bg pt-80 pb-80">
+        <div class="testimonial-area ts-bg pt-80 pb-80">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Testimonials</span>
-                            <h2 class="site-title">What Our <span>Community</span> Says</h2>
-                            <p>Hear from our students and parents about their experiences at Adesotu
-                                College.
+                            <h2 class="site-title text-white">What Our <span>Community</span> Says</h2>
+                            <p class="text-white">Hear from our students and parents about their experiences at Henson
+                                High School.
                                 Their
                                 stories
                                 reflect our commitment to excellence.</p>
@@ -262,7 +256,7 @@
         <!-- testimonial area end -->
 
 
-        <!-- <div class="alumni pt-120 pb-80">
+        <div class="alumni pt-120 pb-80">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
@@ -279,11 +273,11 @@
                                 </h2>
                             </div>
                             <p class="content-text">
-                                All hail Adesotu College band <br>
+                                All hail Henson band <br>
                                 Our pride of noble exploit <br>
-                                Come to Adesotu College <br>
+                                Come to Henson School <br>
                                 Where knowledge and discipline reign <br>
-                                Oh Adesotu College <br>
+                                Oh Henson School <br>
                                 Our Standard height <br>
                                 Our glorious feet for future leaders dreams <br>
                                 Our crown of highest gain <br>
@@ -292,16 +286,14 @@
                                 To all our pledge we bow.
                             </p>
                             <p class="content-text mt-2">
-                                Adesotu College our noble school, Our pride of international height, We pledge to your
-                                excellency
-                                Where all who comes, face a, World of change, to outstanding, World of exploit, We
-                                plead, so help us God, Amen.
+                                Henson our noble school, Our pride of international height, We pledge to your excellency
+                                Where all who comes, face a, World of change, to outstanding, World of exploit, We plead, so help us God, Amen.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
     </main>
 
 

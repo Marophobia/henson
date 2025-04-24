@@ -5,8 +5,8 @@
                 <div class="site-heading text-center">
                     <span class="site-title-tagline"> Our Leadership</span>
                     <h2 class="site-title">Meet Our <span>Team</span></h2>
-                    <p>The dedicated leadership team at Adesotu International College,
-                        works tirelessly to uphold our commitment to Academic Excellence and Creativity.</p>
+                    <p>The dedicated leadership team at Henson Demonstration Schools,
+                        works tirelessly to uphold our commitment to excellence in education.</p>
                 </div>
             </div>
         </div>

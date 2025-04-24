@@ -10,10 +10,10 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-    <title>Adesotu International College | How To Apply</title>
+    <title>Henson Demonstration Schools | How To Apply</title>
 
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
-
 <body>
 
     <!-- header area -->
@@ -54,12 +53,12 @@
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline">How To
                                     Apply</span>
-                                <h2 class="site-title"> How To Apply - <span>Adesotu International College</span>.
+                                <h2 class="site-title"> How To Apply - <span>Henson Demonstration Schools</span>.
                                 </h2>
                             </div>
                             <p class="content-text">
-                                Admission into Adesotu International College Secondary School is open to all pupils.
-                                Admission is open to all students irrespective
+                                Admission into Henson Demonstration Secondary School is open to all pupils who have
+                                successfully completed primary education. Admission is open to all students irrespective
                                 of creed or race.
                                 Entry is through a competitive entrance examination and interview. Th examination date
                                 is fixed by the school authority.
@@ -117,12 +116,10 @@
                             <p class="mb-4">
                                 Choosing the right school for your child is a critical decision, and we're here to help.
                                 This
-                                FAQ section answers some of the most common questions about Adesotu International
-                                College, including
+                                FAQ section answers some of the most common questions about Henson Demonstration Schools, including
                                 our
                                 curriculum, admissions process, extracurricular activities, and much more.
-                                At Adesotu College, we strive to make every parent and student feel confident and
-                                excited about
+                                At Henson, we strive to make every parent and student feel confident and excited about
                                 joining
                                 our community. For additional information, feel free to contact us anytime!
                             </p>
@@ -135,8 +132,8 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <span><i class="far fa-question"></i></span> What is the mission of Adesotu
-                                        College
+                                        <span><i class="far fa-question"></i></span> What is the mission of Henson
+                                        Demonstration Schools?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -154,15 +151,13 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <span><i class="far fa-question"></i></span> Where is Adesotu International
-                                        College located?
+                                            <span><i class="far fa-question"></i></span> Where is Henson Demonstration Schools located?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Adesotu International College is located at 57, Osayogie street, opposite Nitel
-                                        Junction off Ugbowo-Lagos road, Idumwowina, Benin City, Edo State.
+                                        Henson Demonstration Schools is located at 52, Akhionbare Street, G.R.A. Benin City, Edo State.
                                     </div>
                                 </div>
                             </div>
@@ -171,8 +166,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <span><i class="far fa-question"></i></span> How do I enroll my child at Adesotu
-                                        International College?
+                                        <span><i class="far fa-question"></i></span> How do I enroll my child at Henson Demonstration Schools?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
@@ -189,8 +183,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFour" aria-expanded="false"
                                         aria-controls="collapseFour">
-                                        <span><i class="far fa-question"></i></span> Does Adesotu International College
-                                        Secondary
+                                        <span><i class="far fa-question"></i></span> Does Henson Demonstration Secondary
                                         School offer scholarships?
                                     </button>
                                 </h2>
@@ -217,7 +210,7 @@
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Adesotu International College offers a variety of extracurricular
+                                        Henson Demonstration Schools offers a variety of extracurricular
                                         activities, including
                                         sports,
                                         music, arts, debate clubs, science fairs, and community service programs,

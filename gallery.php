@@ -34,25 +34,25 @@ $gallery_images = R::find('gallery', 'type = ? AND status = ? ORDER BY id DESC L
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gallery | Adesotu International College</title>
-    <meta name="description" content="Explore the vibrant life of Adesotu International College through our photo gallery. See our events, facilities, and student activities.">
-    <meta name="keywords" content="Adesotu International College gallery, photos, events, school facilities, student activities">
-    <meta name="author" content="Adesotu International College">
+    <title>Gallery | Henson Demonstration Schools</title>
+    <meta name="description" content="Explore the vibrant life of Henson Demonstration Schools through our photo gallery. See our events, facilities, and student activities.">
+    <meta name="keywords" content="Henson Demonstration Schools gallery, photos, events, school facilities, student activities">
+    <meta name="author" content="Henson Demonstration Schools">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Gallery | Adesotu International College">
-    <meta property="og:description" content="Discover Adesotu International College through our gallery. See images of our facilities, events, and vibrant student life.">
+    <meta property="og:title" content="Gallery | Henson Demonstration Schools">
+    <meta property="og:description" content="Discover Henson Demonstration Schools through our gallery. See images of our facilities, events, and vibrant student life.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.adesotucollege.com/gallery.php">
-    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/gallery.jpg">
-    <meta property="og:site_name" content="Adesotu International College">
+    <meta property="og:url" content="https://www.hensonschools.com/gallery.php">
+    <meta property="og:image" content="https://www.hensonschools.com/assets/img/gallery.jpg">
+    <meta property="og:site_name" content="Henson Demonstration Schools">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gallery | Adesotu International College">
-    <meta name="twitter:description" content="View the stunning visuals of Adesotu International College's campus, activities, and events in our gallery.">
-    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/gallery.jpg">
+    <meta name="twitter:title" content="Gallery | Henson Demonstration Schools">
+    <meta name="twitter:description" content="View the stunning visuals of Henson Demonstration Schools's campus, activities, and events in our gallery.">
+    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/gallery.jpg">
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
+    <link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -121,7 +121,7 @@ $gallery_images = R::find('gallery', 'type = ? AND status = ? ORDER BY id DESC L
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Gallery</span>
                             <h2 class="site-title">Our Photo <span>Gallery</span></h2>
-                            <p>Experience Life at Adesotu International Colleges Through Our Lens</p>
+                            <p>Experience Life at Henson Demonstration Schoolss Through Our Lens</p>
                         </div>
                     </div>
                 </div>

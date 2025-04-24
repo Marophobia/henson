@@ -83,17 +83,17 @@ if (isset($_POST['submit_application'])) {
         $id = R::store($application);
 
         // Send email to applicant
-        $applicant_message = "Dear $first_name,\n\nThank you for submitting your application to Adesotu International College. Your application has been received and is being processed. We will contact you shortly to confirm your application.\n\nBest regards,\nAdesotu International College";
+        $applicant_message = "Dear $first_name,\n\nThank you for submitting your application to Henson Demonstration Schools. Your application has been received and is being processed. We will contact you shortly to confirm your application.\n\nBest regards,\nHenson Demonstration Schools";
         
         sendMail(
             $email,
             "$first_name $last_name",
-            "Application Received - Adesotu International College",
+            "Application Received - Henson Demonstration Schools",
             generateEmailBody("$first_name $last_name", $applicant_message)
         );
 
         // Send email to admin
-        $admin_email = "admin@adesotucollege.com"; // Change to actual admin email
+        $admin_email = "admin@hensonschools.com"; // Change to actual admin email
         $admin_message = "A new application has been submitted:\n\nName: $first_name $last_name\nEmail: $email\nPhone: $phone\n\nPlease login to the admin panel to review the application.";
         
         sendMail(

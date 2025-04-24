@@ -9,9 +9,9 @@
         </div>
         <div class="testimonial-quote">
             <p>
-                Adesotu International College truly focuses on meeting the dreams and expectations of families. 
-                Our three kids are currently students here, and we’ve seen extraordinary progress in their academic 
-                achievements and personal growth.
+                Henson Demonstration Schools truly prioritize the needs and aspirations of parents. 
+                Our three children are currently enrolled here, and we have witnessed remarkable growth in their academic 
+                performance and character development.
             </p>
         </div>
         <div class="testimonial-content">
@@ -33,9 +33,9 @@
         </div>
         <div class="testimonial-quote">
             <p>
-                Studying at Adesotu International College has been an amazing journey. 
-                The teachers are incredibly encouraging, and the learning atmosphere motivates me to succeed both in my 
-                studies and as an individual.
+                Being a student at Henson Demonstration Schools has been an incredible experience. 
+                The teachers are always supportive, and the learning environment encourages me to excel both academically 
+                and personally.
             </p>
         </div>
         <div class="testimonial-content">
@@ -57,9 +57,9 @@
         </div>
         <div class="testimonial-quote">
             <p>
-                The principles, discipline, and academic grounding I gained at Adesotu International College 
-                have profoundly shaped my life. The lessons I learned here have equipped me to face challenges with 
-                courage and honesty.
+                The values, discipline, and academic foundation I received at Henson Demonstration Schools 
+                have had a lasting impact on my life. The lessons I learned here have helped me navigate the world with 
+                confidence and integrity.
             </p>
         </div>
         <div class="testimonial-content">
@@ -81,9 +81,9 @@
         </div>
         <div class="testimonial-quote">
             <p>
-                As a parent, I’m absolutely delighted with the positive changes I’ve observed in my son 
-                since he joined Adesotu International College. The commitment of the teachers, along with the focus on 
-                academic rigor and ethical values, has made a significant impact.
+                As a parent, I am beyond pleased with the transformation I have seen in my son 
+                since enrolling him at Henson Demonstration Schools. The dedication of the teachers, combined with 
+                the emphasis on academic excellence and moral values, has made all the difference.
             </p>
         </div>
         <div class="testimonial-content">

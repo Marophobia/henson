@@ -15,48 +15,51 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adesotu International College | Academic Academic Excellence and Creativity</title>
+    <title>Henson Demonstration Schools | Excellence in Education</title>
     <meta name="description"
-        content="Adesotu International College is a private co-educational institution established to complement government effort at providing affordable and qualitative education for children in Nigeria and the world at large.">
+        content="Henson Demonstration Schools is a premier educational institution dedicated to academic excellence, holistic development, and nurturing future leaders. Enroll today for a brighter future.">
     <meta name="keywords"
-        content="Adesotu International College, best schools, high school education, enroll students, check results, contact Adesotu International College, academic excellence, holistic education">
-    <meta name="author" content="Adesotu International College">
+        content="Henson Demonstration Schools, best schools, high school education, enroll students, check results, contact Henson Demonstration Schools, academic excellence, holistic education">
+    <meta name="author" content="Henson Demonstration Schools">
     <meta name="robots" content="index, follow">
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Adesotu International College | Academic Academic Excellence and Creativity">
+    <meta property="og:title" content="Henson Demonstration Schools | Excellence in Education">
     <meta property="og:description"
-        content="Experience world-class education at Adesotu International College. Join us for academic success and holistic development.">
+        content="Experience world-class education at Henson Demonstration Schools. Join us for academic success and holistic development.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.adesotucollege.com">
-    <meta property="og:image" content="https://www.adesotucollege.com/assets/img/slider/slider-3.jpg">
-    <meta property="og:site_name" content="Adesotu International College">
+    <meta property="og:url" content="https://www.hensonschools.com">
+    <meta property="og:image" content="https://www.hensonschools.com/assets/img/snip.jpg">
+    <meta property="og:site_name" content="Henson Demonstration Schools">
     <meta property="og:locale" content="en_US">
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Adesotu International College | Academic Academic Excellence and Creativity">
+    <meta name="twitter:title" content="Henson Demonstration Schools | Excellence in Education">
     <meta name="twitter:description"
-        content="Join Adesotu International College for outstanding education, innovative teaching methods, and student-centered learning.">
-    <meta name="twitter:image" content="https://www.adesotucollege.com/assets/img/slider/slider-3.jpg">
-    <meta name="twitter:site" content="@Adesotu CollegeSchools">
-    <meta name="twitter:creator" content="@Adesotu CollegeSchools">
+        content="Join Henson Demonstration Schools for outstanding education, innovative teaching methods, and student-centered learning.">
+    <meta name="twitter:image" content="https://www.hensonschools.com/assets/img/snip.jpg">
+    <meta name="twitter:site" content="@HensonSchools">
+    <meta name="twitter:creator" content="@HensonSchools">
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.adesotucollege.com">
+    <link rel="canonical" href="https://www.hensonschools.com">
+
+    <!-- Favicon -->
+    <link rel="icon" href="https://www.hensonschools.com/favicon.ico" type="image/x-icon">
     <!-- Organization Schema Markup -->
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
-  "name": "Adesotu International College",
-  "url": "https://www.adesotucollege.com",
-  "logo": "https://www.adesotucollege.com/assets/img/logo/logo.png",
+  "name": "Henson Demonstration Schools",
+  "url": "https://www.hensonschools.com",
+  "logo": "https://www.hensonschools.com/assets/img/logo/logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+2347068352732",
+    "telephone": "+2348162118764",
     "contactType": "Customer Service"
   },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "57, Osayogie street, opposite Nitel Junction off Ugbowo-Lagos road, Idumwowina, Benin City, Edo State",
+    "streetAddress": "52, Akhionbare Street, G.R.A. Benin City, Edo State.",
     "addressLocality": "Benin City",
     "addressRegion": "EDO",
     "postalCode": "62704",
@@ -75,37 +78,37 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.adesotucollege.com/"
+      "item": "https://www.hensonschools.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "About School",
-      "item": "https://www.adesotucollege.com/about.php"
+      "item": "https://www.hensonschools.com/about.php"
     },
        {
       "@type": "ListItem",
       "position": 3,
       "name": "News & Events",
-      "item": "https://www.adesotucollege.com/blog.php"
+      "item": "https://www.hensonschools.com/blog.php"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Check Result",
-      "item": "https://app.adesotucollege.com/checkresult"
+      "item": "https://app.hensonschools.com/checkresult"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Gallery",
-      "item": "https://www.adesotucollege.com/gallery.php"
+      "item": "https://www.hensonschools.com/gallery.php"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Contact Us",
-      "item": "https://www.adesotucollege.com/contact.php"
+      "item": "https://www.hensonschools.com/contact.php"
     }
   ]
 }
@@ -116,11 +119,11 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Adesotu International College",
-  "url": "https://www.adesotucollege.com",
+  "name": "Henson Demonstration Schools",
+  "url": "https://www.hensonschools.com",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.adesotucollege.com/search?q={search_term_string}",
+    "target": "https://www.hensonschools.com/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -128,12 +131,12 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
 
 
     <!-- Links for Better Navigation -->
-    <link rel="alternate" hreflang="en" href="https://www.adesotucollege.com">
+    <link rel="alternate" hreflang="en" href="https://www.hensonschools.com">
 </head>
 
 
 <!-- favicon -->
-<link rel="icon" type="image/x-icon" href="assets/img/logo/logo.png">
+<link rel="icon" type="image/x-icon" href="assets/img/smsPics/logo.png">
 
 <!-- css -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -174,7 +177,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 <div class="hero-content-box">
                                     <div class="hero-content">
                                         <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                            Adesotu International College
+                                            Henson Demonstration Schools
                                         </h4>
                                     </div>
                                 </div>
@@ -190,7 +193,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 <div class="hero-content-box">
                                     <div class="hero-content">
                                         <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                            Academic Academic Excellence and Creativity
+                                            Knowledge and Discipline
                                         </h4>
                                     </div>
                                 </div>
@@ -199,6 +202,23 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                     </div>
                 </div>
 
+                <div class="hero-single" style="background: url(assets/img/slider/slider-4.jpg)">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-12 col-lg-7">
+                                <div class="hero-content-box">
+                                    <div class="hero-content">
+                                        <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                            Excellence in Education
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
                 <div class="hero-single" style="background: url(assets/img/slider/slider-3.jpg)">
                     <div class="container">
                         <div class="row align-items-center">
@@ -206,7 +226,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                 <div class="hero-content-box">
                                     <div class="hero-content">
                                         <h4 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
-                                           Conducive Environment
+                                            Always Winning
                                         </h4>
                                     </div>
                                 </div>
@@ -231,13 +251,13 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                             <div class="feature-item">
                                 <span class="count">01</span>
                                 <div class="feature-icon">
-                                    <img src="assets/img/icon/global-education.svg" alt="Supportive Learning Space">
+                                    <img src="assets/img/icon/global-education.svg" alt="Conducive Environment">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Academic Framework</h4>
-                                    <p>Our institution aligns with the latest guidelines from Nigeria's educational
-                                        authorities while incorporating globally recognized teaching methodologies to
-                                        ensure high-quality education.
+                                    <h4 class="feature-title">School Curriculum</h4>
+                                    <p>We operate based on updated requirements of educational regulatory board of
+                                        Nigeria and also apply best international practices in carrying out Educational
+                                        activities.
                                     </p>
                                 </div>
                             </div>
@@ -246,13 +266,14 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                             <div class="feature-item">
                                 <span class="count">02</span>
                                 <div class="feature-icon">
-                                    <img src="assets/img/icon/teacher.svg" alt="Proficient Mentors">
+                                    <img src="assets/img/icon/teacher.svg" alt="Experienced Teachers">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Skilled Educators</h4>
-                                    <p>At Adesotu International College, every subject is taught by accomplished experts
-                                        in their respective fields. Our teaching staff is meticulously selected based on
-                                        their exceptional qualifications and proven ethical standards.
+                                    <h4 class="feature-title">Qualified Teachers</h4>
+                                    <p>At Henson Demonstration Schools, every subject taught are done by the best brains
+                                        in their various fields,
+                                        as our teachers are carefully selected with the best QUALIFICATION and proven
+                                        IMPECCABLE CHARACTERS
                                     </p>
                                 </div>
                             </div>
@@ -261,14 +282,16 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                             <div class="feature-item">
                                 <span class="count">03</span>
                                 <div class="feature-icon">
-                                    <img src="assets/img/icon/library.svg" alt="Advanced Resources">
+                                    <img src="assets/img/icon/library.svg" alt="Extensive Library">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Tech Integration</h4>
-                                    <p>Adesotu College is widely regarded as a leader in technological advancement.
-                                        Technology is seamlessly integrated into all aspects of our operations, and
-                                        students are exposed to cutting-edge tools to prepare them for global
-                                        competitiveness.
+                                    <h4 class="feature-title">Technology</h4>
+                                    <p>Henson is described by all as an institution that is at the front burner of
+                                        technology, as its application has become the order of the day in every sphere
+                                        of our
+                                        activitiesvfrom start to finish. We also expose our students to technological
+                                        activities to
+                                        enable them globally competitive.
                                     </p>
                                 </div>
                             </div>
@@ -280,10 +303,11 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                     <img src="assets/img/icon/library.svg" alt="Extensive Library">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Tranquil Setting</h4>
-                                    <p>Adesotu College is nestled in a secure and peaceful environment, spread across a
-                                        vast area where both academic and leisure activities are conducted in an optimal
-                                        atmosphere.
+                                    <h4 class="feature-title">Conducive Environment</h4>
+                                    <p>Henson is located in a secured and serene environment with a very large expanse
+                                        of
+                                        land where
+                                        educational and recreational activities are carried out conducively.
                                     </p>
                                 </div>
                             </div>
@@ -303,12 +327,12 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                             <div class="about-img">
                                 <div class="row g-4">
                                     <div class="col-md-6">
-                                        <img class="img-1" src="assets/img/about/01.png" alt="">
+                                        <img class="img-1" src="assets/img/about/01.jpg" alt="">
                                         <div class="about-experience mt-4">
                                             <!-- <div class="about-experience-icon">
                                                 <img src="assets/img/icon/exchange-idea.svg" alt="">
                                             </div> -->
-                                            <b class="text-start">Over 10 Years Of <br> Quality Education</b>
+                                            <b class="text-start">Over 35 Years Of <br> Quality Education</b>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -324,46 +348,44 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline"> About Us</span>
                                 <h2 class="site-title">
-                                    A Commitment to <span>Academic Excellence</span> and Creativity.
+                                    A Commitment to <span>Excellence</span> in Education.
                                 </h2>
                             </div>
                             <p class="about-text">
-                                Adesotu International College consists of three levels of education: Nursery, Primary,
-                                and Secondary. It is a private co-educational institution established to support the
-                                government's efforts in delivering accessible and excellent education for children in
-                                Nigeria and beyond.
+                                Henson Demonstration Schools comprises of three tiers of schools, namely Nursery,
+                                Primary and Secondary schools, it is a private co-educational institution established to
+                                complement government effort at providing affordable and qualitative education for
+                                children in Nigeria and the world at large.
                             </p>
                             <div class="about-content">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="about-item">
                                             <div class="about-item-icon">
-                                                <img src="assets/img/icon/open-book.svg"
-                                                    alt="Academic Excellence and Creativity Icon">
+                                                <img src="assets/img/icon/open-book.svg" alt="Quality Education Icon">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>Our Mission</h5>
-                                                <p>Adesotu International College is dedicated to fostering the holistic
-                                                    growth of every child, focusing on intellectual, physical, social,
-                                                    and ethical development.</p>
+                                                <h5>Mission</h5>
+                                                <p>Henson Demonstration School is committed to the total development of
+                                                    the child mentally, physically, socially and morally.</p>
                                             </div>
                                         </div>
                                         <div class="about-item">
                                             <div class="about-item-icon">
                                                 <img src="assets/img/icon/online-course.svg"
-                                                    alt="Creative Learning Icon">
+                                                    alt="Innovative Learning Icon">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>Our Vision</h5>
-                                                <p>Empowering and nurturing the leaders of tomorrow.</p>
+                                                <h5>Vision</h5>
+                                                <p>Raising and educating future leaders.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>"We are committed to unlocking the potential within every student. Our
-                                                aspiration is to provide each child with a comprehensive, balanced, and
-                                                high-quality education."</p>
+                                            <p>"We strive to release the potential in every child.
+                                                Our dream is to provide each and every child with a sound, well rounded
+                                                quality education."</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -376,7 +398,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call Now</span>
-                                        <h6><a href="tel:+2347068352732">+234 706 835 2732</a></h6>
+                                        <h6><a href="tel:+2348037196219">+234 803 719 6219</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -454,9 +476,9 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="choose-content wow fadeInUp" data-wow-delay=".25s">
                             <div class="choose-content-info">
                                 <div class="site-heading mb-0">
-                                    <span class="site-title-tagline text-white"> Why Choose
+                                    <span class="site-title-tagline"> Why Choose
                                         Us</span>
-                                    <h2 class="site-title text-white mb-10">Adesotu International College:
+                                    <h2 class="site-title text-white mb-10">Henson Demonstration Schools:
                                         <span>Knowledge for Creativity</span>
                                     </h2>
                                 </div>
@@ -468,9 +490,11 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                                     <img src="assets/img/icon/award.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Outstanding Academics</h4>
-                                                    <p>Adesotu International College is known for producing
-                                                        high-achieving students with exceptional academic outcomes.</p>
+                                                    <h4>Academic Excellence</h4>
+                                                    <p>Henson Demonstration Schools consistently produces
+                                                        top-performing students
+                                                        with
+                                                        stellar academic results.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -480,10 +504,10 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                                     <img src="assets/img/icon/teacher.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Committed Leadership</h4>
-                                                    <p>Our leadership team, including the Director, Principal, and Vice
-                                                        Principal, ensures every student receives excellent education
-                                                        and mentorship.</p>
+                                                    <h4>Dedicated Leadership</h4>
+                                                    <p>Our Director, Principal, and Vice Principal ensure that every
+                                                        student
+                                                        receives quality education and guidance.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -493,9 +517,10 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                                     <img src="assets/img/icon/global-education.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Advanced Infrastructure</h4>
-                                                    <p>We provide cutting-edge classrooms, fully equipped laboratories,
-                                                        and an ideal learning environment.</p>
+                                                    <h4>Modern Facilities</h4>
+                                                    <p>We offer state-of-the-art classrooms, well-equipped labs, and a
+                                                        conducive
+                                                        environment for learning.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -505,10 +530,10 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                                                     <img src="assets/img/icon/acting.svg" alt="">
                                                 </div>
                                                 <div class="choose-item-info">
-                                                    <h4>Well-Rounded Development</h4>
-                                                    <p>We focus on nurturing both academic excellence and
-                                                        extracurricular skills, equipping students for success in every
-                                                        aspect of life.</p>
+                                                    <h4>Holistic Growth</h4>
+                                                    <p>We nurture both academic and extracurricular talents, preparing
+                                                        students
+                                                        for success in all walks of life.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -519,7 +544,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                     </div>
                     <div class="col-lg-6">
                         <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                            <img src="assets/img/about/8.jpg" alt="Adesotu International College">
+                            <img src="assets/img/about/8.jpg" alt="Henson Demonstration Schools">
                         </div>
                     </div>
                 </div>
@@ -535,7 +560,7 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Gallery</span>
                             <h2 class="site-title">Our Photo <span>Gallery</span></h2>
-                            <p>Experience Life at Adesotu International College through Our Lens</p>
+                            <p>Experience Life at Henson Demonstration Schools through Our Lens</p>
                         </div>
                     </div>
                 </div>
@@ -581,15 +606,15 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                     <div class="row align-items-center">
                         <div class="col-lg-5 ms-lg-auto">
                             <div class="cta-content mt-0">
-                                <h1>Build Your Tomorrow at Adesotu International College – Join Us Today!</h1>
-                                <p>Discover boundless possibilities with a strong educational base at Adesotu
-                                    International
-                                    College. Become part of a community focused on academic brilliance, spiritual
-                                    development,
-                                    and overall success.
+                                <h1>Shape Your Future at Henson Demonstration Schools – Enroll Today!</h1>
+                                <p>Unlock endless opportunities with a solid foundation at Henson Demonstration Schools.
+                                    Join a
+                                    community
+                                    dedicated to academic excellence, Spiritual growth, and success in all areas of
+                                    life.
                                 </p>
                                 <div class="cta-btn">
-                                    <a href="enroll.php" class="theme-btn">Register Now<i
+                                    <a href="enroll.php" class="theme-btn">Enroll Now<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
@@ -607,9 +632,8 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"> Testimonials</span>
                             <h2 class="site-title">What Our <span>Community</span> Says</h2>
-                            <p>Discover what our students and parents have to say about their journey at Adesotu
-                                International College.
-                                Their testimonials highlight our dedication to quality education.</p>
+                            <p>Hear from our students and parents about their experiences at Henson Demonstration
+                                Schools. Their stories reflect our commitment to excellence.</p>
                         </div>
                     </div>
                 </div>
@@ -658,5 +682,4 @@ $blogs = R::findAll('blog', 'WHERE status = 1 ORDER BY id DESC LIMIT 3');
     </script>
 
 </body>
-
 </html>

@@ -22,12 +22,12 @@ if (isset($_POST['submit_contact'])) {
     }
 
     // Send confirmation email to user
-    $userSubject = "Thank you for contacting Adesotu International College";
+    $userSubject = "Thank you for contacting Henson Demonstration Schools";
     $userMessage = "Dear {$name},<br><br>
-                   Thank you for reaching out to Adesotu International College. 
+                   Thank you for reaching out to Henson Demonstration Schools. 
                    We have received your message and will get back to you as soon as possible.<br><br>
                    Best regards,<br>
-                   Adesotu International College Team";
+                   Henson Demonstration Schools Team";
     
     $userMailSent = sendMail($email, $name, $userSubject, generateEmailBody($name, $userMessage));
 
@@ -40,7 +40,7 @@ if (isset($_POST['submit_contact'])) {
                     Message:<br>
                     {$message}";
     
-    $adminMailSent = sendMail('hello@adesotucollege.com', 'Admin', $adminSubject, generateEmailBody('Admin', $adminMessage));
+    $adminMailSent = sendMail('hello@hensonschools.com', 'Admin', $adminSubject, generateEmailBody('Admin', $adminMessage));
 
     if ($userMailSent === true && $adminMailSent === true) {
         $_SESSION['success'] = "Thank you for your message. We will get back to you soon!";

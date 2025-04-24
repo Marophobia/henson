@@ -10,17 +10,20 @@
                 <div class="col-md-6 col-lg-6">
                     <div class="footer-widget-box about-us">
                         <a href="#" class="navbar-brand">
-                            <!-- <img src="<?php echo $base_url; ?>/assets/img/logo/logo.png" alt="Adesotu International College Logo"> -->
+                            <!-- <img src="<?php echo $base_url; ?>/assets/img/smsPics/logo.png" alt="Henson Demonstration Schools Logo"> -->
                         </a>
                         <p class="mb-3">
-                            Situated in a serene environment, we offer quality and affordable education (for day
-                            students) with God-fearing and well experienced staff.
+                            Comprises of three tiers of school, namely Nursery, Primary and Secondary schools. It is a
+                            private co-educational institution established to complement government effort at providing
+                            affordable and qualitative education for children in Edo State in particular and Nigeria in
+                            general.
                         </p>
                         <ul class="footer-contact">
-                            <li><a href="tel:+2347068352732"><i class="far fa-phone"></i>+234 706 835 2732</a></li>
-                            <li><i class="far fa-map-marker-alt"></i>57, Osayogie street, opposite Nitel Junction off Ugbowo-Lagos road, Idumwowina, Benin City, Edo State</li>
-                            <li><a href="mailto:hello@adesotucollege.com"><i
-                                        class="far fa-envelope"></i>hello@adesotucollege.com</a></li>
+                            <li><a href="tel:+2348037196219"><i class="far fa-phone"></i>+234 803 719 6219</a></li>
+                            <li><i class="far fa-map-marker-alt"></i>52, Akhionbare Street, G.R.A. Benin City, Edo
+                                State.</li>
+                            <li><a href="mailto:hello@hensonschools.com"><i
+                                        class="far fa-envelope"></i>hello@hensonschools.com</a></li>
                         </ul>
                     </div>
                 </div>
@@ -29,7 +32,7 @@
                     <div class="footer-widget-box list">
                         <h4 class="footer-widget-title">Quick Links</h4>
                         <ul class="footer-list">
-                            <li><a href="https://app.adesotucollege.com/checkresult"><i class="fas fa-caret-right"></i>
+                            <li><a href="https://app.hensonschools.com/checkresult"><i class="fas fa-caret-right"></i>
                                     Check Results</a></li>
                             <li><a href="<?php echo $base_url; ?>/blog.php"><i class="fas fa-caret-right"></i> News</a>
                             </li>
@@ -66,7 +69,7 @@
                 <div class="row">
                     <div class="col-md-6 align-self-center">
                         <p class="copyright-text">
-                            &copy; Copyright <span id="date"></span> Adesotu International College. All
+                            &copy; Copyright <span id="date"></span> <a href="#">Henson Demonstration Schools</a>. All
                             Rights
                             Reserved.
                         </p>

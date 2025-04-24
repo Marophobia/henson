@@ -25,7 +25,7 @@ $categories = R::findAll('categories', 'ORDER BY id ASC');
 <head>
 
     <meta charset="utf-8" />
-    <title>Add News and Events | Adesotu International College</title>
+    <title>Add News and Events | Henson Demonstration Schools</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />

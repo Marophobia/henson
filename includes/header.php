@@ -20,6 +20,62 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-item" href="<?php echo $base_url; ?>/about.php">About</a>
                         </li>
+                        <li class="nav-item mega-menu dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Academics</a>
+                            <div class="dropdown-menu fade-down">
+                                <div class="mega-content">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-12 col-sm-4 col-md-3">
+                                                <h5>About Us</h5>
+                                                <div class="menu-about">
+                                                    <!-- <a href="#" class="menu-about-logo"><img
+                                                            src="assets/img/logo/logo.png" width="20" alt=""></a> -->
+                                                    <p> Henson Demonstration Schools is located in a secured and serene
+                                                        environment with
+                                                        a very large expanse of
+                                                        land where educational and recreational activities are carried
+                                                        out condusively</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 col-sm-4 col-md-3">
+                                                <h5>Nursery</h5>
+                                                <ul class="mega-menu-item">
+                                                    <li><a class="dropdown-item"
+                                                            href="<?php echo $base_url; ?>/creche.php">Creche</a>
+                                                    </li>
+                                                    <li><a class="dropdown-item"
+                                                            href="<?php echo $base_url; ?>/toddler.php">Toddler</a>
+                                                    </li>
+                                                    <li><a class="dropdown-item"
+                                                            href="#">Kindergarten</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-12 col-sm-4 col-md-3">
+                                                <h5>Primary</h5>
+                                                <ul class="mega-menu-item">
+                                                    <li><a class="dropdown-item"
+                                                            href="<?php echo $base_url; ?>/basic-classes.php">Basic
+                                                            Clasess</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-12 col-sm-12 col-md-3">
+                                                <h5>Secondary</h5>
+                                                <ul class="mega-menu-item">
+                                                    <li><a class="dropdown-item"
+                                                            href="<?php echo $base_url; ?>/junior-classes.php">Junior
+                                                            Secondary</a></li>
+                                                    <li><a class="dropdown-item"
+                                                            href="#">Senior
+                                                            Secondary</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link " href="<?php echo $base_url; ?>/gallery.php">Gallery</a>
                         </li>
@@ -33,8 +89,8 @@
                                         Apply</a></li>
                                 <li><a class="dropdown-item" href="<?php echo $base_url; ?>/enroll.php">Application
                                         Form</a></li>
-                                <!-- <li><a class="dropdown-item" href="<?php echo $base_url; ?>/campuses.php">Our Campuses</a>
-                                </li> -->
+                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>/campuses.php">Our Campuses</a>
+                                </li>
                                 <!-- 
                                 <li class="dropdown-submenu">
                                     <a class="dropdown-item dropdown-toggle" href="#">Our Campus</a>
@@ -43,17 +99,17 @@
                                         <li><a class="dropdown-item" href="<?php echo $base_url; ?>/gra-campus.php">GRA Campus</a></li>
                                     </ul>
                                 </li> -->
-                                <!-- <li><a class="dropdown-item" href="<?php echo $base_url; ?>/facilities.php">Our
-                                        Facilities</a></li> -->
+                                <li><a class="dropdown-item" href="<?php echo $base_url; ?>/facilities.php">Our
+                                        Facilities</a></li>
                                 <li><a class="dropdown-item" href="<?php echo $base_url; ?>/faq.php">FAQs</a></li>
 
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="https://app.adesotucollege.com/checkresult">Check Result</a>
+                            <a class="nav-link" href="https://app.hensonschools.com/checkresult">Check Result</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link " href="https://app.adesotucollege.com">Login</a>
+                            <a class="nav-link " href="https://app.hensonschools.com">Login</a>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="<?php echo $base_url; ?>/contact.php">Contact</a></li>
                     </ul>

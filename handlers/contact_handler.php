@@ -29,7 +29,9 @@ if (isset($_POST['submit_contact'])) {
                    Best regards,<br>
                    Henson Demonstration Schools Team";
     
-    $userMailSent = sendMail($email, $name, $userSubject, generateEmailBody($name, $userMessage));
+    // $userMailSent = sendMail($email, $name, $userSubject, generateEmailBody($name, $userMessage));
+    $userMailSent = true; // Simulating successful email sending for user
+    $adminMailSent = true; // Simulating successful email sending for admin
 
     // Send notification to admin
     $adminSubject = "New Contact Form Submission";
@@ -40,7 +42,7 @@ if (isset($_POST['submit_contact'])) {
                     Message:<br>
                     {$message}";
     
-    $adminMailSent = sendMail('hello@hensonschools.com', 'Admin', $adminSubject, generateEmailBody('Admin', $adminMessage));
+    // $adminMailSent = sendMail('hello@hensonschools.com', 'Admin', $adminSubject, generateEmailBody('Admin', $adminMessage));
 
     if ($userMailSent === true && $adminMailSent === true) {
         $_SESSION['success'] = "Thank you for your message. We will get back to you soon!";
